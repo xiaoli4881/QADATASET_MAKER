@@ -7,7 +7,7 @@ Automated medical Q&amp;A for dataset construction
 # 安装依赖：
 
 bash
-pip install pdf2image easyocr opencv-python numpy
+pip install -r requirements.txt
 
 # 命令行使用：
 bash

@@ -1,0 +1,17 @@
+Table 2 Research questions according to PICO criteria
+
+Abbreviations: CBT-I, Cognitive-behavioral therapy applied to insomnia; ESS, Epworth Sleepiness Scale; ISI, Insomnia Severity Index; PICO, Population, intervention, comparator, and outcome; PSC, Polysomnography; PsQI, Pittsburgh Sleep Quality Index; WASO, wake after sleep onset.
+
+Comorbidities not comprising the study population or not applied to all participants.
+Studies in children, adolescents, and older adults are excluded. Adults aged 18 to 65 years were included, with samples from multiple age ranges considered eligible since most of the population consisted of adults.
+
+No intervention, waiting list, or OI placebo was included.
+Minimum intervention refers to interventions deemed ineffective; including sleep hygiene alone, lectures, instructional leaflets, and Sham therapies.
+
+Pharmacotherapy (only when used as a control group for non-pharmacological interventions).
+CBT-I (only when considered as a control group for non-pharmacological interventions), allowing the inclusion of studies comparing two different CBT modalities.
+
+Inclusion: Objective and subjective sleep parameters.
+Exclusion: Studies without any outcomes listed in Table 2.
+
+The articles retrieved from each intervention's systematic review were analyzed, with levels of evidence assigned based on the Oxford Centre for Evidence-Based Medicine (OCEBM) Levels of Evidence. A single author (GNP) determined these levels, as detailed in Table 3.

@@ -1,0 +1,14 @@
+Abbreviations: ACT-I, Acceptance and commitment therapy applied to insomnia; BZD, Benzodiazepines; CBT-I, Cognitive-behavioral therapy applied to insomnia; DORA, Dual orexin receptor antagonists; CABA, Gamma-aminobutyric acid; MBCT-I, Mindfulness-based cognitive therapy applied to insomnia; THC, Tetrahydrocannabinol. Intervention not included in the systematic reviews.
+
+Recommendations voted for the whole class instead of individually for each intervention.
+Includes meditation and vipassana.
+Includes qigong, tai-chi, and yoga.
+
+Questionnaires or scales such as those mentioned can be used to help identify and assess the severity of insomnia and associated symptoms. The assessment may also include scales and inventories to investigate symptoms of depression and anxiety, fatigue, and quality of life using tools like the Quality-of-Life Scale (SE-36) and Fatigue Severity Scale.
+
+Insomnia is clinically diagnosed; although polysomnography (PSG) is recommended for objectively assessing various parameters such as sleep-onset latency, total sleep time (TST), number of wakes, sleep efficiency, duration of stages, and wake after sleep onset (WASO), its routine use is not advised in diagnosing chronic insomnia. PSG should be performed under the following circumstances:
+(a) To exclude other sleep disorders like obstructive sleep apnea or periodic limb movements;
+(b) For objective assessment when treating refractory cases of insomnia that have responded inadequately to treatment;
+(c) When there are recurrent inadequate perceptions of sleep.
+
+Recently, PSG has been suggested as a tool for distinguishing between insomnia with short objective sleep duration (IST ≤ 6 hours) and those without it. This differentiation is important because evidence indicates that insomnia characterized by shorter objective sleep durations may be more severe and associated with physiological changes.

@@ -1,0 +1,31 @@
+Extending these results to this population, drug interactions between DORAs and antidepressants may occur. Suicide risk in serious patients has not been well evaluated.
+
+This class of hypnotic is contraindicated for the treatment of insomnia in patients with narcolepsy.
+
+Melatoninergic receptor agonists, such as Ramelteon, are approved as a chronohypnotic for treating sleep-onset insomnia by stimulating melatonin receptors (MT1 and MT2). MT1 attenuates alert signals in the suprachiasmatic nucleus while MT2 synchronizes the circadian clock.
+
+Although there are no direct comparison studies, evidence from experimental data suggests that Ramelteon is 3 to 16 times more potent than melatonin. 
+
+Available presentations: Ramelteon is available in various doses and rapidly absorbed due to extensive first-pass metabolism involving cytochrome P450 enzymes primarily.
+
+Patient assessment: Ramelteon can be indicated for adult patients with sleep-onset insomnia.
+
+Therapeutic planning: The recommended administration is one tablet daily, 30 minutes before bedtime. Tablets should not be broken; there is no evidence of the need to adjust doses for specific cases.
+
+Expected outcomes: To date, two systematic reviews (one including a meta-analysis) and several randomized studies lasting up to 12 months have evaluated Ramelteon's effect on insomnia. In that meta-analysis by Kuriyama et al., involving 5,800 patients with insomnia or insomniacsymptoms over an average follow-up duration of 38 days, Ramelteon was associated with reduced sleep latency (a weighted average difference of 4.3 minutes [95% CI: 7.01 to -1.58]) and improved sleep quality but not subjective IST increase.
+
+Drug interactions, contraindications, and side effects: When co-administered with Ramelteon, fluvoxamine (a strong CYP2D6 inhibitor) significantly increased the concentration and half-life compared to when administered alone. Thus, Ramelteon should not be co-administered with fluvoxamine or other CYP2D6 inhibitors such as siprofloxacin, nor with CYP3A4 inhibitors like ketoconazole, and CYP2C19 inhibitors like fluconazole.
+
+This medicine should not be used by pregnant women due to the lack of adequate and well-controlled studies under these conditions. The use in breastfeeding women is also not recommended. Similarly, its use in children and adolescents is not advised due to a lack of focused studies on these populations.
+
+The most common adverse events with Ramelteon include sleepiness (5% vs 3% placebo), dizziness (5% vs 3% placebo), and fatigue (4% vs 2% placebo). Although very rare, there are reports of serious allergic reactions such as angioedema associated with its use.
+
+Other considerations: 1) Toxicity is relatively low compared to other hypnotic agents; 2) Evidence supports safety with prolonged use without rebound insomnia in 12-month studies; 3) Safety has been confirmed for older patients and those with comorbidities such as chronic obstructive pulmonary disease (COPD), mild to moderate obstructive sleep apnea (OSA).
+
+Exogenous melatonin, marketed for about 30 years, is a chronobiotic suitable for circadian rhythm disorders. However, it has erroneously become one of the most used substances in the world to induce sleep.
+
+Mechanism of action: Endogenous and exogenous melatonin act on the sleep-wake cycle by stimulating MT1 receptors (attenuating alert signals) and MT2 receptors (synchronizing the circadian clock).
+
+Available presentations: Exogenous melatonin is marketed in various forms, including immediate-release tablets (2 mg, 3 mg, 5 mg, and 10 mg), sublingual usetablets (0.21 mg), drops (0.21 mg/drop), and formulations available for compounding pharmacy marketing.
+
+In oral immediate-release formulations, exogenous melatonin reaches maximum plasma concentration around 50 minutes with low and variable bioavailability due to hepatic metabolism followed by urinary excretion. The half-life is approximately 60 minutes (40-90 minutes).

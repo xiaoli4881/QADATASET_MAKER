@@ -1,0 +1,19 @@
+Mechanism and action: These compounds act as inverse agonists rather than H1 (histamine) receptor antagonists. Their effects on the central nervous system are primarily determined by their ability to cross the blood-brain barrier and bind to central histamine receptors. The capacity to penetrate this barrier depends on the lipophilicity of the molecule and its affinity for P-glycoprotein. Additionally, they exhibit anticholinergic, α-adrenergic, and serotonin actions.
+
+Most over-the-counter antihistamines available in Brazil have varying half-lives; hydroxyzine has a 20- to 25-hour duration, while promethazine lasts about 16–19 hours. In contrast, diphenhydramine's effect is shorter-lived at around 6–9 hours.
+
+Expected outcomes: Due to the lack of well-designed studies, quantifying expected results for insomnia remains challenging. Off-label use can lead to residual symptoms such as daytime sleepiness and impaired reflexes or driving abilities.
+
+Drug interactions, contraindications, side effects: Common adverse reactions (1-10%) include drowsiness, fatigue, reduced attention, memory impairment, motor performance issues, and anticholinergic symptoms like insomnia, tremors, dizziness, irritability, palpitations; blurred vision, constipation, urinary retention, tachycardia, dry mouth, throat and nasal irritation.
+
+First-generation antihistamines can impair cognitive function in children and adults. Their use with alcohol or central nervous system depressants such as hypnotics may result in increased sedation effects. Concomitant administration of monoamine oxidase inhibitors (MAOIs) prolongs the duration and intensity of their anticholinergic actions, while they might exacerbate arrhythmias associated with psychotropic agents; thus, caution is advised for patients with narrow-angle glaucoma.
+
+Elderly individuals should use smaller doses due to a higher risk of anticholinergic effects and sedation. Dosages must be reduced in cases of liver failure.
+
+In recent years, the Association of Brazilian Sleep Specialists (ABS) has been actively promoting multidisciplinary approaches to sleep disorders through guidelines and recommendations. This document presents current evidence for diagnosing and treating insomnia in adults after rigorous research processes, discussions, and voting sessions. An accurate diagnosis is crucial as it guides appropriate comprehensive treatment.
+
+We emphasize cognitive behavioral therapy for insomnia (CBT-I) as the primary therapeutic approach for most patients. We also highlight the efficacy of various pharmacological classes commonly used to treat or manage insomniacomorbidwith other conditions such as selective benzodiazepine receptor agonists, dual orexin receptor antagonists, and melatoninergic agonists due to a larger body of evidence supporting their use.
+
+However, in clinical practice, non-pharmacological measures are often underutilized. CBT-I is frequently not employed, leading health professionals to rely heavily on pharmacotherapy without structured plans for duration or tapering off the medication. Additionally, there's frequent off-label substance use and treatment of comorbid conditions that significantly influence insomnia severity.
+
+These factors contribute to repeated cases of dependence and misuse of available treatments. Therefore, this document aims to improve care for insomnia by providing health professionals with valuable insights into effective management strategies.

@@ -1,0 +1,5 @@
+Process is presented in Fig. 2. These files were used to assign levels of evidence and vote on the recommendations (described in Tables 4 to 9). Table 4 lists recommendations for insomnia diagnosis, including melatoninergic agonist ramelteon and three Cognitive Behavioral Therapy for Insomnia (CBT-I) presentations: in-person, group, and digital. The levels of evidence for each intervention are shown in Tables 5 and 7.
+
+In round #1, 18 non-pharmacological and 39 pharmacological interventions were voted on, with considerations given to sleep-onset insomnia, sleep-maintenance insomnia, and early waking contexts. Additionally, six special recommendations were made for non-pharmacological interventions; 23 for pharmacological interventions; and 19 for insomnia diagnosis.
+
+Recommendations related to benzodiazepines (BZDs) were grouped and voted on as a collective class rather than separate drugs. Thus, 154 recommendations were voted on in round #1, of which consensus was reached on

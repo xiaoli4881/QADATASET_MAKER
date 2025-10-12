@@ -1,0 +1,19 @@
+Orexins (hypocretins) are hypothalamic neuropeptides that regulate the sleep-wake cycle and maintain wakefulness. The orexin/hypocretin system is considered a target for treating insomnia.
+
+Suvorexant, as the first DORA approved for insomnia treatment, works by promoting sleep through selective antagonism of OX1R and OX2R orexin receptors. Its half-life is 12 hours; it takes about 1 to 2 hours (when taken on an empty stomach) or approximately 3 hours with food to reach maximum concentration.
+
+Suvorexant comes in doses of 5, 10, 15, and 20 mg oral tablets. It is indicated for treating sleep-onset and maintenance insomnia in adults and older adults. According to the American Food and Drug Administration (FDA), the recommended dose is 10 mg taken once at night, 30 minutes before bed, with a minimum interval of 7 hours from planned morning wake-up time; it can be increased up to 20 mg if necessary. It is well-tolerated with a maximum daily dose of 20 mg per day. In patients using moderate CYP3A4 inhibitors, the maximum recommended dose is 10 mg/day (starting at 5 mg).
+
+Suvorexant has been systematically evaluated in placebo-controlled trials involving over 1,000 patients and revealed significant improvements such as reduced sleep onset latency; increased total sleep time; decreased wake after sleep onset. These results were assessed using the Insomnia Severity Index (ISI). A double-blind RCT of 322 suvorexant users versus 162 placebo recipients over one year showed subjective improvement in sleep latency and maintenance, maintained for a full year.
+
+Suvorexant was also evaluated in patients with insomnia and probable Alzheimer's disease; it maintained the same efficacy and safety profile observed in primary insomnia studies. Suvorexant significantly reduces sleep-onset latency, increases total sleep time (TSI), decreases wake after sleep onset (WASO); effective and safe compared to placebo.
+
+Common adverse effects of suvorexant include drowsiness, fatigue, headache; other less common ones are mouth dryness, coughing, increased incidence of respiratory tract infections. The risk is dose-dependent with more frequent occurrences in women but no significant difference between young people and older adults regarding the risk.
+
+Mechanistically, daridorexant binds to orexin (hypocretin) receptors A and B like other DORAs mentioned earlier, suppressing excessive vigilance during sleep by selectively targeting and blocking binding of orexin neuropeptides. Its half-life is approximately 8 hours; Tmax is around 1-2 hours.
+
+Daridorexant comes as 25 mg and 50 mg oral tablets. It is indicated for treating insomnia or sleep-onset/maintenance difficulties in adults and older adults. The FDA approved daridorexant at doses of 25 to 50 mg, taken 30 minutes before bedtime with a minimum interval of 7 hours from planned morning wake-up time.
+
+A main randomized, placebo-controlled study lasting 52 weeks showed that daridorexant was generally safe and well-tolerated without inducing residual morning sleepiness at the doses studied. Adverse events were rare in all groups (active and placebo). Narcolepsy symptoms such as hypnagogic or hypnopompic hallucinations; sleep paralysis events, and cataplexy were not reported by participants.
+
+In summary, daridorexant administered up to one year was generally safe with no signs of tolerance or physical dependence after withdrawal.

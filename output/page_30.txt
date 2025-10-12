@@ -1,0 +1,25 @@
+Other considerations: Given the evidence that antidepressant amitriptyline treatment reduces sleep latency and night waking while increasing sleep efficiency, it may also be useful to treat insomnia in off-label conditions if no other pharmacological options with robust scientific evidence are available.
+
+Mechanism of action: Mirtazapine is an antidepressant antagonist of presynaptic az-noradrenergic self-receptors and a2-serotoninergic hetero-receptors, acting on the disinhibition of synaptic release of noradrenaline and serotonin. Additionally, it stimulates the release of serotonin and noradrenaline; mirtazapine is an α1-antagonist of SHTZ A and H1 postsynaptic receptors, with effects associated with increased slow-wave sleep and sedation respectively.
+
+Antidepressant doses range from 30 to 75 mg/day. The sedative effect is more pronounced at lower doses (7.5–15 mg); higher doses (>30 mg) are less sedative due to a larger noradrenergic effect.
+
+Available presentations: Mirtazapine comes in 15, 30, and 45 mg oral dispersible tablets.
+
+Patient assessment: No RCI has specifically assessed mirtazapine for treating insomnia with no comorbidities; hence there are no specific recommendations for evaluating patients with insomnia treated with mirtazapine.
+
+Expected outcomes: In a double-blind, placebo-controlled RCT using healthy volunteers as models of transient insomnia under acoustic stress (traffic noise), both 7.5 mg and 50 mg doses of mirtazapine increased IST by half an hour and reduced the number of awakenings by 35–40% compared to placebo. While quetiapine specifically increased stage N2, mirtazapine mainly increased stage N3. Individuals reported that both medications facilitated sleep and improved sleep quality but caused daytime sleepiness and diminished sustained attention.
+
+Drugs interactions, contraindications, side effects: Mirtazapine is a substrate of cytochrome enzymes P450 1A2, 2C9, and 3A4 and weakly inhibits CYP IA2 and 3A4. Sedation increases when mirtazapine is used in association with other CNS depressors. Combining it with other antidepressants such as selective serotonin reuptake inhibitors should be avoided due to the risk of a serotonergic syndrome.
+
+Mirtazapine may increase appetite, raise triglyceride and cholesterol levels, cause mouth dryness, constipation, excessive sedation, dizziness, nightmares, vivid dreams, and restless legs. Considering small studies, particularly with evidence that antidepressant treatment with mirtazapine improves different sleep parameters in patients with comorbid insomnia; it may also be useful to treat off-label conditions if no other pharmacological options with robust scientific evidence are available.
+
+Long-elimination half-life can cause residual sleepiness with cognitive and motor deficits. Avoid using it in patients with metabolic disorders due to the potential risk of weight gain.
+
+Phenothiazines such as chlorpromazine and levomepromazine tend to cause sedation; but this is not sufficient to indicate them for treating insomnia in the absence of scientific evidence promoting this use. A 2023 meta-analysis evaluated eight controlled RCTs on the impact of using antipsychotics during schizophrenia treatment, indicating that among the antipsychotics, olanzapine, quetiapine, risperidone, and ziprasidone were associated with a significant increase in insomnia symptoms; concluding that clozapine is less associated with insomnia compared to other antipsychotics.
+
+Due to pharmacokinetic characteristics, quetiapine could be indicated for different forms of
+
+Available presentations: Quetiapine comes in immediate-release 251.8 mg, 1001.8 mg, and 2001.8 mg tablets; extended-release 501.8 mg, 2001.8 mg, and 300 mg tablets.
+
+Patient assessment: Due to pharmacokinetic characteristics, quetiapine could be indicated for different forms of

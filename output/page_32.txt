@@ -1,0 +1,27 @@
+Pregabalin has been approved by ANVISA for the treatment of neuropathic pain, as an adjuvant in focal-onset epileptic seizures with or without secondary generalization, generalized anxiety disorder (GAD), and adult fibromyalgia. Mechanism of action: Pregabalin is a GABA analog that works similarly to gabapentin.
+
+NoRCIS0far has assessed this medication focused on the specific study of chronic insomnia; however, there are no controlled pregabalin studies for chronic insomnia. A systematic review of gabapentin and pregabalin (α-delta ligands or pentoins) showed inconclusive results regarding outcomes for insomnia. This review suggests that α-delta ligands may improve sleep in patients with insomnia associated with conditions such as anxiety and neuropathic pain, but it is unclear whether the improvement occurs through direct or indirect mechanisms.
+
+Cannabinoids are compounds found in Cannabis sp., which has been registered by ANVISA since 2019 for products derived from cannabis. Mechanism of action: Over 100 phytocannabinoids exist; however, preclinical and clinical studies have primarily focused on cannabidiol (CBD) and delta-9-tetrahydrocannabinol (THC). CBD has a biphasic effect—promoting alertness at lower doses and sedation in higher ones. Acute THC administration reduces sleep latency, while chronic use increases sleep fragmentation.
+
+Currently approved cannabinoids include 18 compounds as per ANVISA's Joint Board decisions 10327/2019 and 10335/2020. Cannabinoids are available in various presentations: CBD alone (concentrations from 20 mg/mL to 200 mg/mL), extracts containing both CBD and THC at concentrations of 0.2% or 0.24% THC, or cannabis extracts with unspecified medicinal cannabinoids.
+
+Patient assessment for insomnia using cannabinoids has no scientific guidelines despite their use in treating this condition with comorbidities.
+Therapeutic planning: No quality studies have addressed the effectiveness and safety to guide dosing recommendations.
+
+Expected outcomes: Three systematic reviews with meta-analyses and some randomized controlled trials lasting up to 8 weeks evaluated the effect of cannabinoids on insomnia. A meta-analysis involving 219 adult patients showed that CBD and THC analogues improved sleep quality as measured by PSQI over an 8-week period, based on both objective (PSG actigraphy) and subjective outcomes.
+
+Another meta-analysis with more than 5,000 participants found a modest improvement in sleep complaints among patients using cannabinoids compared to placebo. The subgroup of "cancer" patients reported particularly significant improvements. However, it is unclear whether the observed benefits stem from anxiolytic effects (CBD), pain relief (4-TC analogs), or direct CNS pathways regulating sleep.
+
+Other ongoing studies may provide additional evidence in future years; for example: NCT0534170, NCTO5041647, and NCT05237037 on clinicaltrials.gov.
+
+Drugs interactions, contraindications, and side effects: Small safety studies have been conducted only with CBD and THC extracts. Both 262 mg of CBD and THC are metabolized in the liver via cytochrome p450 pathways; thus they may interact with various drugs that use this pathway as well as patients with liver failure.
+
+Concomitant use of CBD with valproate increases transaminase levels, potentially leading to hepatotoxicity. Clobazam has a reciprocal interaction with CBD. Common side effects include sedation, epigastralgia (stomach pain), diarrhea, and increased transaminases; THC induces known pleiotropic effects such as euphoria in low doses or psychotic outbreaks at high doses.
+
+Regarding other phytocannabinoids and synthetic cannabinoids, their mechanisms of action are not yet well understood along with potential interactions, contraindications, and side effects.
+
+Mechanism of action: Valerian's likely mechanism involves an agonist role in GABA-A receptors due to its high content of GABA. Recent research also suggests adenosine receptor activity as the main contributor to valerian’s relaxing and sleep-inducing properties.
+Available presentations include capsules or tablets containing valerian extract (50-100 mg).
+
+Patient assessment for insomnia using valerian has no scientific guidelines, despite its use in treating this condition.

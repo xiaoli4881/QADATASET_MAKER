@@ -1,0 +1,236 @@
+{'human': '失眠的定义是什么？', 'assistant': '失眠表现为对睡眠质量和数量不满的症状。'}
+{'human': '慢性失眠障碍的主要症状有哪些夜间表现形式？', 'assistant': '夜间症状或类型包括入睡困难、保持睡眠状态难以及过早醒来（即在计划时间之前）。'}
+{'human': '日间症状可能包含哪些后果？', 'assistant': '日间症状则包含因失眠导致的后果，如疲劳；精力下降、注意力不集中和记忆力减退；情绪变化，包括易怒和抑郁。'}
+{'human': '睡眠剥夺对生活质量有哪些影响？', 'assistant': '睡眠剥夺对生活质量产生多种影响并可能导致缺勤率增加、工作效率降低以及事故风险上升，并且还可能引发精神疾病、心血管病、代谢性疾病及其他相关问题。'}
+{'human': '失眠与哪些生理系统有关联？', 'assistant': '从生理病理学角度来看，失眠通常与自主神经系统激活有关，导致交感神经活动增强及下丘脑-垂体-肾上腺轴活性升高。'}
+{'human': 'Spielman提出的3P模型包括哪几个因素？', 'assistant': 'Spielman提出的3P模型（易感性、诱发性和持续性因素），表明遗传/表观遗传学方面和早期压力是影响个体大脑功能和个人差异的因素。'}
+{'human': '哪些情绪障碍可能有助于引发或加重失眠？', 'assistant': '情绪障碍的高发率可能有助于引发或加重失眠，而新冠疫情大流行期间这种现象显著增加，并得到了多项研究的支持。'}
+{'human': '神经生物学睡眠机制包括哪几个方面？', 'assistant': '诱发性和维持性的因素包括神经生物学睡眠机制：如稳态调控、生物时间控制器（昼夜节律）以及促进觉醒和睡眠的神经元细胞群中心翻转-反转模型。因此，可以理解为控制睡眠诱导机制与唤醒诱导机制之间的失衡，表现为过度警觉系统活跃而睡眠系统抑制不足或两者同时存在。'}
+{'human': '当前理论方法包括哪些模式？', 'assistant': '当前理论方法包括认知行为模式、神经生物学模式及其结合（图1）。'}
+{'human': '哪些患者的症状与这种睡眠障碍相符？', 'assistant': 'Whose patients have complaints and symptoms compatible with this sleep disorder?'}
+{'human': '该指南旨在提供什么类型的临床指导方针？', 'assistant': 'This guideline aims to provide patient-centered clinical guidelines using a structured methodology.'}
+{'human': '研究问题是如何构建的？', 'assistant': 'Even though this paper covers both diagnosis and treatment of insomnia, structured research questions were developed only for topics on treatment, not those related to diagnosis.'}
+{'human': '为什么没有为诊断准确性开发结构化的问题？', 'assistant': 'Developing research questions for diagnostic accuracy—such as using the PI(R)T approach—requires clearly established reference tests as valid comparators. Since these reference tests are analyzed in this study, the topics on diagnosis were not addressed with structured research questions; instead, they were written based on theoretical considerations, previous guidelines, and professional experience.'}
+{'human': '治疗研究问题是如何定义的？', 'assistant': "Hence, a series of PICO-based questions were developed for treatment: 'What is the effect of [INTERVENTION] compared with [CONTROL] on [OUTCOME] in adults with chronic insomnia without comorbidities?'"}
+{'human': '哪些药物干预措施被考虑为合格？', 'assistant': 'Concerning pharmacological interventions, only those currently available in Brazil or possibly becoming available in the upcoming years were considered eligible.'}
+{'human': '研究问题是如何限制的？', 'assistant': 'Given the large number of interventions to be included, this paper decided to restrict research questions to primary treatment for chronic insomnia in adults.'}
+{'human': '哪些非药物干预措施被纳入了搜索策略中？', 'assistant': 'Specifically regarding non-pharmacological interventions, the search strategies focused on cognitive-behavioral therapy applied to insomnia (CBT-I), acceptance and commitment therapy applied to insomnia (ACT-I), and mindfulness-based cognitive therapy applied to insomnia (MBCT-I).'}
+{'human': '搜索策略是如何组合的？', 'assistant': "The strategies combined two search domains: one addressing both population and outcome related to insomnia, and the other combining each intervention's specific strategy."}
+{'human': '哪些数据库被用于文献检索？', 'assistant': 'The searches were made in two databases: PubMed and Web of Science full collection, last updated on June 5, 2023.'}
+{'human': 'ACT的全称是什么？', 'assistant': 'ACT (Acceptance and commitment therapy)'}
+{'human': 'CBTI的全称是什么？', 'assistant': 'CBTI (Cognitive-behavioral therapy applied to insomnia)'}
+{'human': '哪些机构提出了治疗失眠的方法？', 'assistant': '美国睡眠医学学会（AASM）；欧洲睡眠研究协会（ESRS），以及其他一些社会。'}
+{'human': '巴西的指南与国际上的其他指南有何不同之处？', 'assistant': '由于重点放在了在巴西可用的干预措施上，这使得该清单中的药物和非药物治疗手段与其他研究中的一些干预措施有所不同（例如，排除了一些如唑吡坦和替马西泮等干预措施），但包括了一些其他国家指南中不常见的其他干预措施（尤其是某些植物疗法）。此外，本指南比上述提到的那些更近期；因此它包含了更新的干预措施，比如大麻素和ACT-I。'}
+{'human': '证据水平是如何分配的？', 'assistant': '主要基于所选研究使用的实验设计来确定。尽管可以调整其他方面（如表3中所述），但没有采用结构化或参数化的办法。使用GRADE工具[Grading Of Recommendations Assessment, Development, and Evaluation]等方法将允许更全面地评估。'}
+{'human': '诊断失眠的标准是什么？', 'assistant': '标准化的诊断应集中在正确描述患者的持续时间、频率、类型、生活方式、睡眠习惯、触发因素以及共病（及其相应的治疗）。'}
+{'human': '如何进行慢性失眠症的诊断？', 'assistant': '诊断慢性失眠主要是临床评估。该评估应该涵盖患者白天和晚上的生活习惯，诱发及维持的因素，以及其他精神状况。'}
+{'human': 'COMISA指的是什么？', 'assistant': 'COMISA是指共病失眠与阻塞性睡眠呼吸暂停。'}
+{'human': 'COPD代表什么意思？', 'assistant': 'COPD表示慢性阻塞性肺疾病。'}
+{'human': 'ACT-I是什么？', 'assistant': 'ACT-I是应用于失眠的接纳与承诺疗法。'}
+{'human': 'CBT-I包括哪些内容？', 'assistant': 'CBT-I认知行为疗法应用于治疗失眠。'}
+{'human': 'DORA指的是什么药物类别？', 'assistant': 'DORA是指双重 Orexin 受体拮抗剂。'}
+{'human': 'MBCT-I是什么意思？', 'assistant': 'MBCT-I是针对失眠的认知正念疗法。'}
+{'human': 'BZD用于治疗哪种疾病或症状？', 'assistant': 'BZD，苯二氮卓类药物通常用于治疗焦虑症和某些类型的睡眠障碍。'}
+{'human': '什么是失眠的诊断标准？', 'assistant': '失眠是临床诊断；尽管多导睡眠图（PSG）被推荐用来客观评估诸如入睡潜伏期、总睡眠时间 (TST) 以及其它参数，但其在慢性失眠中的常规使用并不建议。'}
+{'human': '哪些情况下需要进行 PSG 检查？', 'assistant': '当存在以下情况时应执行多导睡眠图（PSG）检查：(a) 排除其他如阻塞性睡眠呼吸暂停或周期性肢体运动障碍的疾病； (b) 对于治疗反应不佳的慢性失眠病例，进行客观评估； (c) 当有反复出现对睡眠感知不足的情况。'}
+{'human': '什么是 Quality-of-Life Scale（SE-36）？', 'assistant': 'Quality-of-Life Scale （SE-36）是一种用于调查生活质量的工具。'}
+{'human': '失眠患者需要进行哪些评估？', 'assistant': '问卷或量表，如所提及者可帮助识别和评定失眠及其相关症状的程度；此外还包括对抑郁、焦虑等症状以及疲劳程度及生活质量和使用诸如 Quality-of-Life Scale（SE-36）和 Fatigue Severity Scale 的工具的调查。'}
+{'human': '什么是 PSG？', 'assistant': '多导睡眠图 (PSG) 是一种用于客观评估各种参数如入睡潜伏期、总睡眠时间 (TST) 以及其它参数的技术。'}
+{'human': '您是否有入睡困难、夜间难以保持清醒或过早醒来的问题？', 'assistant': 'Have you had complaints related to difficulty in falling asleep, difficulty staying awake throughout the night, or waking up early in the morning?'}
+{'human': '您之前是否接受过失眠治疗？如果是，接受了哪些治疗方法以及效果如何？', 'assistant': 'Have you been treated for insomnia before? If so, what treatments did you receive and how effective were they?'}
+{'human': '您通常什么时间上床睡觉？', 'assistant': 'What time do you usually go to bed?'}
+{'human': '在睡前是否会在床上进行任何活动，如看电视、阅读或工作等？', 'assistant': 'Do you engage in any activities in bed before going to sleep, such as watching television, reading, working, or eating?'}
+{'human': '您夜间是否会频繁查看床头钟表？', 'assistant': 'Do you frequently look at the clock at night?'}
+{'human': '您通常每天睡多久觉？认为自己需要多少睡眠才能达到最佳状态？', 'assistant': 'How long have you been sleeping? How much sleep do you think you need for optimal well-being?'}
+{'human': '在睡前会进行哪些活动，是否使用发出强光的设备：电脑、平板或手机等？', 'assistant': 'What activities do you do before bedtime? Do you use devices that emit intense light: computers, tablets, cell phones?'}
+{'human': '您睡得更好是在床上还是其他地方？', 'assistant': 'Do you sleep better outside your bed or in a different place?'}
+{'human': '您通常什么时间起床，是否依赖闹钟、自发醒来或有人叫醒？', 'assistant': 'What time do you normally wake up in the morning? Do you rely on an alarm clock to wake up, wake up spontaneously, or does someone else awaken you?'}
+{'human': '早上醒来时感觉如何（困倦，疲乏）？是否立即起床？', 'assistant': 'How do you feel when you wake up (sleepy, tired)? Do you get out of bed immediately upon waking?'}
+{'human': 'PSG诊断失眠的局限性是什么？', 'assistant': " PSG limitations in diagnosing insomnia lie in the fact that a single night of sleep may be insufficient to detect its diagnosis; some patients' sleep parameters worsen on the first PSG night (first-night effect), whereas others improve due to changes in their usual environment, sleeping better at the laboratory."}
+{'human': '失眠可能与哪些其他睡眠问题共存？', 'assistant': ' Insomnia can coexist with other sleep problems such as OSA (obstructive sleep apnea), circadian rhythm disorders, periodic limb movements, restless leg syndrome/Willis-Ekbom disease.'}
+{'human': 'PSG和Actigraphy在诊断失眠中的作用是什么？', 'assistant': " PSG is not a tool for diagnosing insomnia but should be used in combination with other clinical information and patient's history; occasionally with PSG to obtain a thorough perspective of the sleep problem. Actigraphy is not a tool for diagnosing insomnia but should be used in combination with other clinical information and patient's history; occasionally with PSG to obtain a thorough perspective of the sleep problem."}
+{'human': '失眠与哪些临床疾病有关？', 'assistant': ' Insomnia can be a risk factor for OSA (obstructive sleep apnea), conditions associated with various clinical diseases such as cardiovascular diseases, systemic arterial hypertension, type2 diabetes, obesity, chronic pain.'}
+{'human': 'CBT-I的主要组成部分是什么？', 'assistant': ' Central CBT-I components include psychoeducation and sleep hygiene; stimulus control, sleep restriction technique; cognitive therapy, cognitive restructuring; and relaxation techniques.'}
+{'human': 'ACT治疗失眠的原理是什么？', 'assistant': ' Acceptance and Commitment Therapy (ACT) belongs to the third wave of Behavioral Psychology and aims to develop psychological flexibility through six main processes: acceptance, defusion, being present, self as context, values, and committed action.'}
+{'human': 'CBT-I主要应用于哪些方面？', 'assistant': 'fOI supplementary use involves various health interventions including insomnia.'}
+{'human': '什么是CBT-I?', 'assistant': 'Abbreviations: CBT, Cognitive-behavioral therapy applied to insomnia.'}
+{'human': 'CBT-I与失眠干预计划结合了哪些技术？', 'assistant': 'The mindfulness-based insomnia intervention program combines mindfulness techniques with components of cognitive-behavioral therapy for insomnia (CBT-I), aiming to alter the relationship with psychosomatic suffering associated with the condition and change dysfunctional thoughts and habits unfavorable for healthy sleep; thus transforming reactive responses into adaptive ones and improving emotional management.'}
+{'human': '选择干预方法时需要考虑哪些因素？', 'assistant': 'The decision on an intervention approach must consider therapeutic response after treatment, follow-up, resource availability, physical and mental health conditions of the patient, as well as their openness and readiness to adhere to the proposed therapy.'}
+{'human': '非药物治疗失眠的耐受性如何？', 'assistant': 'Non-pharmacological insomnia treatments are usually well-tolerated but may require some precautions; there may be contraindications for applying them in older adults, such as stimulus control and sleep restriction posing a risk of falls.'}
+{'human': 'CBT-I对总睡眠时间小于6小时的患者效果如何？', 'assistant': "Regarding insomnia phenotypes based on objective sleep duration, CBT-I is less effective among patients with total sleep time (TST) <6 hours compared to those with TSI >6 hours. The recommendation for the former includes applying multicomponent CBT-I associated with mindfulness strategies and acceptance and commitment therapy (ACT), which favor autonomic modulation promoted by somatic-cognitive hyperarousal; it can also be combined, at the clinician's discretion, with pharmacotherapy to aid its management 78-79."}
+{'human': 'CBT-I对慢性失眠患者的睡眠参数和心理健康有何影响？', 'assistant': 'Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83.'}
+{'human': 'CBT-I对增加总睡眠时间的效果如何？', 'assistant': 'The effects of CBT-I on increasing TST are evident in some studies indicated by the sensitivity shown through sleep diaries 50,62,64,66,83,85 and PSG 62,84; though such correspondence is not as consistent with actigraphy analysis.'}
+{'human': 'CBT-I对日间症状有何影响？', 'assistant': 'When compared with control conditions and isolated CBT-I techniques, multicomponent CBT-I has also shown to improve daytime symptoms such as fatigue and sleepiness 80,88,89; as well as symptoms of anxiety, depression or stress 82,83,85,88,89 and dysfunctional beliefs and attitudes toward sleep. 63-82'}
+{'human': '在线CBT-I服务与控制条件相比有何效果？', 'assistant': 'Online and digital CBT-I services compared with control conditions demonstrate improvement in subjective sleep parameters 63-64,85,89; Table 12 discriminates these effects per CBT-I modality.'}
+{'human': 'CBT-I对失眠症状的严重程度有何影响？', 'assistant': 'Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83.'}
+{'human': 'CBT-I对睡眠效率有何影响？', 'assistant': 'Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83.'}
+{'human': 'CBT-I对睡眠潜伏期有何影响？', 'assistant': 'Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83.'}
+{'human': 'CBT-I对失眠患者夜间觉醒次数有何影响？', 'assistant': 'Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83.'}
+{'human': 'CBT-I对失眠患者醒来后的清醒时间有何影响？', 'assistant': 'Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83.'}
+{'human': 'CBT-I对失眠患者的生活质量有何影响？', 'assistant': 'Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83.'}
+{'human': 'CBT-I对焦虑症状有何影响？', 'assistant': 'When compared with control conditions and isolated CBT-I techniques, multicomponent CBT-I has also shown to improve daytime symptoms such as fatigue and sleepiness 80,88,89; as well as symptoms of anxiety, depression or stress 82,83,85,88,89 and dysfunctional beliefs and attitudes toward sleep. 63-82'}
+{'human': 'CBT-I对抑郁症状有何影响？', 'assistant': 'When compared with control conditions and isolated CBT-I techniques, multicomponent CBT-I has also shown to improve daytime symptoms such as fatigue and sleepiness 80,88,89; as well as symptoms of anxiety, depression or stress 82,83,85,88,89 and dysfunctional beliefs and attitudes toward sleep. 63-82'}
+{'human': 'CBT-I对压力症状有何影响？', 'assistant': 'When compared with control conditions and isolated CBT-I techniques, multicomponent CBT-I has also shown to improve daytime symptoms such as fatigue and sleepiness 80,88,89; as well as symptoms of anxiety, depression or stress 82,83,85,88,89 and dysfunctional beliefs and attitudes toward sleep. 63-82'}
+{'human': 'CBT-I对睡眠态度有何影响？', 'assistant': 'When compared with control conditions and isolated CBT-I techniques, multicomponent CBT-I has also shown to improve daytime symptoms such as fatigue and sleepiness 80,88,89; as well as symptoms of anxiety, depression or stress 82,83,85,88,89 and dysfunctional beliefs and attitudes toward sleep. 63-82'}
+{'human': 'CBT-I对失眠患者日间疲劳有何影响？', 'assistant': 'When compared with control conditions and isolated CBT-I techniques, multicomponent CBT-I has also shown to improve daytime symptoms such as fatigue and sleepiness 80,88,89; as well as symptoms of anxiety, depression or stress 82,83,85,88,89 and dysfunctional beliefs and attitudes toward sleep. 63-82'}
+{'human': 'CBT-I指的是什么？', 'assistant': 'CBT-I是认知行为疗法应用于失眠。'}
+{'human': 'ISI是什么指标的缩写？', 'assistant': 'ISI是失眠严重程度指数。'}
+{'human': 'PSQI代表什么意思？', 'assistant': 'PSQI是匹兹堡睡眠质量指数量表。'}
+{'human': 'WASO指的是什么？', 'assistant': 'WASO是指入睡后的觉醒时间。'}
+{'human': '在线CBT-I与面对面的CBT-I在满意度、可信度和治疗联盟方面有何比较结果？', 'assistant': '在线护理通过认知行为疗法应用于失眠（CBT-I）模式与现场的认知行为疗法应用于失眠（CBT-I）模式，在水平上的满意程度，可信赖性和治疗关系之间显示出等效性。'}
+{'human': '为什么会出现数字形式的CBT-I作为干预慢性失眠的方法？', 'assistant': '由于睡眠心理学家和受过认知行为疗法训练的心理健康专业人员稀缺且难以获得，因此在线和其他数字化模式成为慢性失眠治疗方法的选择替代方案。'}
+{'human': 'Zhang等人在数字CBT-I方面做了什么研究？', 'assistant': '张等证明了文化适应性——即语言、沟通风格（表达方式）、夜生活习惯和睡前活动的调整，并验证了系统的科学有效性。'}
+{'human': 'Bibliotherapy和自助疗法属于哪种治疗模式？', 'assistant': '阅读疗法和支持自我帮助疗法是认知行为疗法应用于失眠中的模态。'}
+{'human': '与非干预组相比，Bibliotherapy和自助疗法在主要的主观睡眠参数上有什么效果？', 'assistant': '当与其他CBT-I模态进行比较时，在改善主要的主观睡眠参数方面（如ISI、PSQI、入睡潜伏期、睡眠效率以及WASO）表现出有限的效果。'}
+{'human': '单独使用卫生保健方法在治疗原发性慢性失眠方面的临床结果如何？', 'assistant': '与对照组相比，仅采用卫生保健方法来改善主要的原发性慢性失眠方面具有有限的结果；它对共病型失眠没有影响。'}
+{'human': 'CBT-I技术结构化和频繁干预在睡眠参数上有什么效果？', 'assistant': '使用认知行为疗法应用于失眠（CBT-I）技巧进行有组织且频率高的介入，在改善睡眠参数方面的效果更显著，这些结果是持久的，并独立于共病、年龄或性别。'}
+{'human': 'CBT-I与其他积极干预措施相比在依从性方面如何？', 'assistant': '接受认知行为疗法应用于失眠（CBT-I）技术的人比其他主动介入方法具有更高的依从率。'}
+{'human': '基于正念的干预与对照组比较有何结果？', 'assistant': '这些方法在随访期间显示出改善ISI、PSQI、入睡潜伏期、睡眠效率以及WASO和心理健康参数的结果，而CBT-I的方法在这方面的表现较差。'}
+{'human': 'Bloteback是什么治疗工具？', 'assistant': 'Bloteback是一种旨在通过电子监测诸如外周温度、血压、心率、肌肉紧张度或脑电波等生理过程来开发自我调节能力的治疗方法。'}
+{'human': '神经反馈的目标是什么？', 'assistant': '神经反馈目标是影响与睡眠相关的脑电波的发生。'}
+{'human': '心脏节律变异性生物反馈如何工作？', 'assistant': '通过在心率波动背景下训练呼吸来减少交感神经系统活动，从而降低心脏节律变异性的生物反馈减少了交感系统活性。'}
+{'human': '关于失眠的生物反馈治疗有哪些研究结果？', 'assistant': '最近对应用生物反馈进行失眠治疗的研究综述显示了不一致的结果，并且在一般质量方面存在局限性。'}
+{'human': 'Bloteback是否能改善睡眠质量？', 'assistant': '一些研究表明，正念练习可以提高与PSQI相关的剂量依赖性的睡眠质量（即预防能力和作为CBT-I的辅助实践），而没有共病情况。'}
+{'human': 'Nicasio及其同事的研究涉及多少名成人患者？', 'assistant': '104'}
+{'human': 'Nicasio及其同事的实验使用了哪种类型的神经生物反馈方法？', 'assistant': '在前额区域使用的电极进行渐进性放松和神经生物反馈'}
+{'human': 'Kwan及其同事的研究中，潜在安慰剂效应的具体表现是什么？', 'assistant': '观察到一个类似潜在安慰剂效应的结果'}
+{'human': '一项随机研究得出的结论是什么？', 'assistant': '最近的一项随机研究表明，脑电生物反馈方案与失眠的认知行为疗法（CBT-I）相当；然而，由于样本量较小，无法就此做出任何结论。'}
+{'human': '物理锻炼在治疗失眠中的作用如何描述？', 'assistant': '有氧运动被引用为失眠辅助治疗方法之一。它增加了能量消耗、促进了幸福感、有助于减重，并改善了情绪和认知功能。'}
+{'human': '一项研究中，监测的至少每周多少分钟的适度强度（快步走）身体活动持续时间是多少？', 'assistant': '六个月内进行至少150分钟/周的适度运动(快速步行)监控计划。'}
+{'human': 'Baron及其同事的研究结果是什么？', 'assistant': '为期十二周中等至剧烈有氧训练也改善了失眠症状严重程度。'}
+{'human': '一项研究比较了每周多少次有氧锻炼与六个月实施平衡饮食的效果如何？', 'assistant': '72名患者被分为每周三到五次的有氧运动组和六个月内进行均衡饮食干预组，两者的睡眠质量和客观入睡潜伏期及效率均优于基线水平；但对照组无显著差异。'}
+{'human': '关于抗阻或力量训练对慢性失眠患者的证据如何？', 'assistant': '针对抗阻或力量训练的证据很少, 但是表明这些方法对于改善慢性失眠患者客观和主观参数方面具有潜在益处。元分析指出，尽管存在由于研究数量有限且质量不一而产生的差异性，但安全性及部分有利影响是存在的。'}
+{'human': '关于冥想练习、瑜伽、太极等身心技术的研究频率是多少？', 'assistant': '这些传统实践侧重于呼吸以整合心身, 研究涉及的频率为每周一次至三次(每次60-120分钟), 持续时间超过十二周。'}
+{'human': '关于瑜伽和太极的一些研究结果是什么？', 'assistant': '一些评估瑜伽与太极的研究表明，这些技术可以改善睡眠质量、某些睡眠结构参数以及精神症状；然而, 由于样本量小、随访期短、反应异质性高且缺乏标准化方法而证据有限。'}
+{'human': '长期练习身心方法对失眠的影响如何？', 'assistant': '研究表明这种做法可以在健康和临床人群中作为预防措施采用，并可与或不伴有共病的CBT-I辅助治疗，其效果随着实践时间的增长而增加。'}
+{'human': '芳香疗法基于什么原理进行治疗？', 'assistant': '一种基于精油物质释放能够产生对大脑相关情感区域有利刺激的原则, 以帮助缓解焦虑、抑郁和失眠症状的治疗方法。'}
+{'human': '初步研究表明，哪种类型的芳香疗法可能在轻度失眠中具有改善睡眠质量的效果？', 'assistant': '初步研究结果表明，主要使用薰衣草精油进行的芳香疗法可能对轻度失眠患者有提高睡眠质量的好处。'}
+{'human': 'Zolpidem的浓度范围是多少？', 'assistant': 'Zolpidem 浓度范围从45到60分钟。'}
+{'human': '巴西市场有哪些佐匹克隆的具体剂型？', 'assistant': '在巴西，即释片（10 mg）、舌下片（5 mg和10 mg）、口腔崩解片（2.5 mg、5 mg 和7.5 mg）、控释片（6.25 mg和 12.5 mg）以及口服溶液（每毫升含10毫克佐匹克隆）都是可获得的剂型。'}
+{'human': 'Zolpidem用于治疗哪种类型的失眠？', 'assistant': 'Zolpidem 指示用于急性夜间发作性失眠，成人即释剂量为5至10 mg或控释剂量6.25mg。对于老年人应初始使用一半的剂量；女性可能需要更低的剂量。'}
+{'human': 'Zolpidem的最大连续用药时间是多少？', 'assistant': '佐匹克隆应该在睡前服用，并且不应连续超过四周。'}
+{'human': '一项关于不同剂量zolpidem的研究结果是什么？', 'assistant': '研究显示，7.5 mg和10mg的Zolpidem减少了入睡潜伏期、夜间觉醒次数并增加了总睡眠时间（TST）而不影响心理运动表现。'}
+{'human': '舌下佐匹克隆与口服佐匹克隆相比有何不同？', 'assistant': '舌下佐匹克隆将入睡潜伏期缩短了8.6分钟，而与口服给药相比，在快速眼动睡眠（REM）和清醒时间方面没有差异。在慢性失眠患者中，无论是口服10 mg还是舌下5mg的Zolpidem都导致夜间觉醒次数减少但舌下制剂对睡眠潜伏期的影响更大。'}
+{'human': '对于有夜醒症状的维持性失眠症患者，使用佐匹克隆的效果如何？', 'assistant': '舌下佐匹克隆（5 mg）增加了总睡眠时间（TST），而没有显著改变入睡潜伏期或清醒的时间；然而它导致了早晨嗜睡和警觉性的降低。'}
+{'human': '慢性失眠患者使用12.5mg的控释佐匹克隆的效果如何？', 'assistant': '对于患有慢性失眠症的人，长效Zolpidem（12.5 mg）增加了总睡眠时间（TST），提高了睡眠效率，并减少了入睡潜伏期、夜间觉醒次数和清醒的时间；同时没有影响第二天早晨的心理运动表现。'}
+{'human': '佐匹克隆与CYP3A4抑制剂合用时应注意什么？', 'assistant': '由于Zolpidem 由 CYP3A4代谢，因此应避免与其共用CYP3A4抑制剂（如fuvoxamine、ciprofloxacin和ketoconazole），因为这会增加镇静作用。'}
+{'human': '佐匹克隆与CYP3A4诱导剂合用时应注意什么？', 'assistant': '相反，与其共用 CYP3A4 诱导剂（如rifampicin 和圣约翰草）会导致 Zolpidem 水平降低。'}
+{'human': '使用佐匹克隆可能出现哪些副作用？', 'assistant': 'Zolpidem 的不良反应包括嗜睡 (5%)、头晕 (5%)、头痛 (3%)、胃肠道症状（4%）、梦游症(1%) 、噩梦 （1-2%）和精神混乱（1-2%）。摔倒和骨折的风险增加，尤其是老年人。'}
+{'human': '使用佐匹克隆后可能出现哪些非REM睡眠期的异常行为？', 'assistant': '在酒精的影响下，可能会出现NREM 睡眠期的行为变化（如失控行为、攻击性；冲动），视觉或听觉幻视也是更常见的副作用。'}
+{'human': '使用佐匹克隆后自杀风险如何？', 'assistant': '高剂量和有精神疾病共病的个体中，Zolpidem 的自杀风险增加。'}
+{'human': '突然停用佐匹克隆后的戒断症状包括哪些？', 'assistant': '突然中断 Zolpidem 可能会导致头痛、肌痛、易怒、焦虑、精神混乱、现实感丧失（derealization）、个人认同障碍（depersonalization） 以及对声音和光线的过度敏感，触觉刺激引起的幻视及癫痫发作。'}
+{'human': 'Zopiclone的作用机制是什么？', 'assistant': '佐匹克隆是非苯二氮卓类催眠药的一种环丙基酮家族成员，并且具有高亲和力与GABA-A受体亚单位Q-1 和 4-2结合。口服后，佐匹克隆在3.75 mg或7.5mg剂量下达到最大血浆浓度（30至60 ng/mL），大约在一小时半到两小时内。'}
+{'human': 'Zopiclone用于治疗哪种类型的失眠？', 'assistant': '由于其作用机制，佐匹克隆适用于成人急性发作和维持性失眠症患者。对于老年人应初始使用一半的剂量（3.75 mg）。'}
+{'human': '推荐如何服用Zopiclone？', 'assistant': '建议睡前口服一片；考虑到病人必须养成规律的就寝时间模式。治疗持续时间不应超过四周。'}
+{'human': 'Zopiclone的有效性如何？', 'assistant': '两项随机对照试验（RCTs）比较了佐匹克隆与唑吡坦以及另一项研究中的艾司佐匹克隆，表明这两种物质在减少睡眠潜伏期和增加总睡眠时间和睡眠效率方面都是有效的。'}
+{'human': 'Zopiclone的药代动力学特性是什么？', 'assistant': '佐匹克隆对血浆蛋白结合较弱且非饱和性；因此与强CYP3A4抑制剂如红霉素和酮康唑合用时需要减少剂量，而利福平、卡马西平、苯巴比妥、丙戊酸钠以及圣约翰草等药物会通过诱导CYP3A4降低其作用。'}
+{'human': 'Zopiclone与酒精同时使用会产生什么影响？', 'assistant': '由于佐匹克隆的镇静效果，不应与其合用乙醇；食物摄入也可能增强这种效应。'}
+{'human': '怀孕期间可以使用Zopiclone吗？', 'assistant': '不建议在怀孕期间使用此药物，因为没有足够的和良好的控制研究来评估这些情况下的安全性。'}
+{'human': 'Eszopiclone的常见不良反应有哪些？', 'assistant': '非常常见的副作用（10%）：苦味；其他常见副作用包括头晕、头痛、残留嗜睡感、口干、消化不良、恶心，偶尔记录到梦魇或不适当的行为如睡眠行走。'}
+{'human': 'Eszopiclone的作用机制是什么？', 'assistant': '艾司佐匹克隆是外消旋佐匹克隆的S-对映体且是非苯二氮卓类催眠药，属于环丙吡咯酮家族；口服后迅速吸收，在大约1小时达到最大浓度。'}
+{'human': 'Eszopiclone有哪些适应症？', 'assistant': '艾司佐匹克隆适用于成人急性发作或维持性失眠的治疗。推荐在睡前仅服用一片药，考虑到患者必须养成规律作息的习惯（即睡觉和起床的时间）。'}
+{'human': '使用Eszopiclone需要注意哪些药物相互作用？', 'assistant': '与强CYP3A4抑制剂如酮康唑合用时需要减少艾司佐匹克隆的剂量；而利福平、卡马西平、苯巴比妥和丙戊酸钠等通过诱导CYP3A4降低其效果。'}
+{'human': 'Eszopiclone在治疗失眠方面的疗效如何？', 'assistant': '多项随机对照试验（RCTs）及两项荟萃分析表明艾司佐匹克隆有效，一项回顾了14项涉及4,732名参与者的RCT研究显示：与安慰剂相比，它减少了睡眠潜伏期约12分钟、醒后时间约17分钟，并增加了至少30分钟的总睡眠时间和提高了第二天的功能表现。'}
+{'human': '怀孕期间可以使用Eszopiclone吗？', 'assistant': '不建议在怀孕期间使用此药物，因为没有足够的和良好的控制研究来评估这些情况下的安全性。'}
+{'human': 'BZDs的发现始于哪一年？', 'assistant': "BZDs' history began in 1955 with the discovery of chlordiazepoxide."}
+{'human': '第一种广泛使用的BZD是什么时候推出的？', 'assistant': 'in 1963 with the launch of diazepam.'}
+{'human': '为什么BZDs在20世纪六七十年代成为神经精神药理学市场的主导药物？', 'assistant': 'The expectation for new drugs offering more effective and safer psychic effects than predominant barbiturates and opioids led to BZDs dominating the neuropsychopharmacology market from the 1960s through the early 1970s.'}
+{'human': 'BZD的作用机制是什么？', 'assistant': 'They act as allosteric agonists of GABA-A type receptors by binding to different sites and facilitating the effect of the agonist neurotransmitter. This results in neuronal hyperpolarization through a cellular influx of chloride, primarily in postsynaptic neurons.'}
+{'human': 'BZDs有哪些作用？', 'assistant': 'BZDs exhibit varying effects depending on their α subunits and locations within the central nervous system (CNS): anxiolytic; hypnotic; myorelaxant; amnesic; antiepileptic; and respiratory depressant.'}
+{'human': 'GABA-A型受体的激活如何影响多巴胺信号？', 'assistant': 'In the mesolimbic dopaminergic system, GABA inhibition in the ventral tegmental area increases dopamine signaling, leading to a reward effect associated with abuse and dependence.'}
+{'human': 'BZDs在巴西有哪些口服制剂用于治疗失眠？', 'assistant': 'Several BZDs are sold in Brazil for outpatient use aimed at treating insomnia.'}
+{'human': '分析了哪些具体的BZD药物？', 'assistant': 'The analyzed BZDs include bromazepam (3 mg; 6 mg oral tablets, 2.5 mg/mL solution), diazepam (10 mg oral tablets), clonazepam (0.25 mg sublingual tablets, 0.5 mg and 2 mg oral tablets, 2.5 mg/mL solution), alprazolam (0.25 mg, 0.5 mg, 1 mg, and 2 mg oral tablets), midazolam (7.5 mg and 15 mg oral tablets), flunitrazepam (1 mg oral tablets), estazolam (oral tablets 2 mg), furazepam (30 mg oral tablets), nitrazepam (5 mg oral tablets), clobazam (10 mg and 20 mg oral tablets) and lorazepam (1 mg and 2 mg oral tablets).'}
+{'human': 'BZDs在治疗失眠时有哪些潜在风险？', 'assistant': 'risks such as abuse, dependence, withdrawal, intoxication, enhancement of other substances with a hypnotic effect, accidents, and death mean that they are not drugs of choice for the treatment of insomnia.'}
+{'human': '对于早夜型失眠，BZDs的治疗选择是什么？', 'assistant': 'For early-night insomnia, BZDs with short or intermediate half-lives such as alprazolam; flunitrazepam, estazolam, midazolam, and bromazepam are preferred, while those with prolonged effect duration like clonazepam, diazepam, and fluorazepam can be options for maintenance and early-morning insomnia.'}
+{'human': 'BZDs与哪些药物存在相互作用？', 'assistant': "Drugs that interfere with CYP3A4 metabolism may influence the metabolism of BZDs. The main pharmacological interactions are with phenothiazines, opioids, barbiturates, monoamine oxidase inhibitors, antidepressants with hypnotic effects, alcohol, illicit drugs; interaction can also occur with certain foods such as grapefruit and St. John's Wort."}
+{'human': 'BZDs的使用禁忌症有哪些？', 'assistant': 'their use is not recommended for patients with myasthenia gravis, ataxic syndrome, obstructive sleep apnea (OSA), chronic respiratory failure, CNS depressant intoxication, angle-closure glaucoma, older people presenting agitation or psychiatric comorbidities.'}
+{'human': 'BZDs的常见副作用有哪些？', 'assistant': 'The most common side effects include daytime sleepiness, lethargy, fatigue; impaired attention and concentration; amnesia, abuse, dependence, withdrawal, hypotonia, ataxia; falls, fractures, accidents, memory impairment, increased risk of paradoxical reactions in older people.'}
+{'human': 'Orexins的主要功能是什么？', 'assistant': 'orexins（hypocretins）是下丘脑神经肽，调节睡眠-觉醒周期并维持清醒状态。'}
+{'human': 'Suvorexant的半衰期是多少？', 'assistant': '其半衰期为12小时；空腹时大约需要1到2个小时或在进食后约3个小时达到最大浓度。'}
+{'human': 'Suvorexant用于治疗哪种类型的失眠症患者？', 'assistant': '它被指示用于成年和老年成人入睡困难（睡眠起始）及维持睡眠的失眠症状。'}
+{'human': 'FDA推荐的Suvorexant剂量是多少？', 'assistant': '根据美国食品药品监督管理局(FDA)，建议剂量为10毫克，晚上一次服用，在睡前30分钟内服用；如果必要的话可以增加到20毫克/天。'}
+{'human': '使用中等CYP3A4抑制剂的患者Suvorexant的最大推荐日剂量是多少？', 'assistant': '在使用中等强度CYP3A4抑制剂的患者中，最大建议的日剂量为10 mg/天（从5毫克开始）。'}
+{'human': '服用Suvorexant后常见的不良反应有哪些？', 'assistant': '常见副作用包括嗜睡、疲劳和头痛；其他较少见的是口干、咳嗽以及呼吸道感染的发生率增加。'}
+{'human': 'daridorexant的半衰期是多少？', 'assistant': '其半衰期约为8小时，Tmax大约为1-2个小时。'}
+{'human': 'daridorexant用于治疗哪种类型的失眠症患者？', 'assistant': '它被指示用于成年和老年成人入睡困难或睡眠起始/维持的障碍。'}
+{'human': 'FDA批准了哪些剂量范围的Daridorexant？', 'assistant': '美国食品药品监督管理局(FDA) 批准daridorexant在25到50毫克之间，睡前30分钟服用，并且与计划早晨清醒时间至少间隔7小时。'}
+{'human': '一项主要随机、安慰剂对照研究持续了多久？', 'assistant': '一个为期52周的主要随机双盲安慰剂对照试验表明，在所研究的剂量下daridorexant通常安全有效，没有引起晨间残留嗜睡症状。所有组别（活性和安慰剂）中的不良事件都很少见。'}
+{'human': '服用Suvorexant后是否会出现耐受性或身体依赖？', 'assistant': '总结而言，在一年的治疗中daridorexant通常安全有效，没有迹象表明在撤药后的耐受性和物理依赖性。'}
+{'human': 'daridorexant治疗失眠的效果如何？', 'assistant': '50 mg的达尔多雷克斯（Daridorexant）对于四个有效性结果——睡眠后清醒时间（WASO）、入睡潜伏期、主观失眠严重程度量表（IST）和日间症状及影响领域评分，均优于安慰剂。'}
+{'human': 'daridorexant治疗失眠的安全性如何？', 'assistant': '与安慰剂相比，在比较达尔多雷克斯用于治疗失眠时，并未发现显著的不良事件差异。最常见的副作用是嗜睡、疲劳；头痛和鼻咽炎。'}
+{'human': 'lemborexant的主要作用是什么？', 'assistant': '勒博瑞克斯（Lemborexant）被批准用于治疗成人及老年人因入睡困难或睡眠维持障碍引起的失眠症。'}
+{'human': 'lemborexant的常见副作用有哪些？', 'assistant': '最常见的不良反应是嗜睡、鼻咽炎和头痛。'}
+{'human': 'lemborexant有哪几种剂型？', 'assistant': '勒博瑞克斯（Lemborexant）以5毫克和10毫克口服片的形式提供。'}
+{'human': '治疗失眠时，推荐的剂量是多少？', 'assistant': '建议睡前至少7小时服用一次5 mg剂量；根据临床反应及耐受性可增加至10 mg剂量。'}
+{'human': 'lemborexant对睡眠参数有何影响？', 'assistant': '在随机、双盲、安慰剂对照研究中，使用勒博瑞克斯（Lemborexant）5毫克和10毫克的成年及老年参与者表现出所有睡眠参数上的改善。与安慰剂相比，在第一周内观察到益处，并持续了长达一年的时间。'}
+{'human': 'lemborexant对失眠严重程度有何影响？', 'assistant': '罗思等人（Roth et al.）的研究表明，治疗949名中度至重度失眠患者12个月后，勒博瑞克斯显著减轻了患者的失眠严重程度，并且这种改善在整个分析期间保持稳定。'}
+{'human': 'lemborexant对老年人的疗效如何？', 'assistant': '在55岁及以上的参与者中进行的一项随机、双盲研究显示，与安慰剂和长效佐匹克隆相比，勒博瑞克斯疗法显著提高了睡眠潜伏期并改善了维持。该治疗在老年患者中的耐受性良好，并且特别有效于夜间后半段的时段。'}
+{'human': 'lemborexant常见的不良反应有哪些？', 'assistant': '最常见的副作用包括嗜睡、鼻咽炎和头痛；罕见的不良反应（发生率<2%）包括接受10 mg剂量治疗者中有1.6％的人出现睡眠瘫痪，而5 mg剂量组中这一比例为1.3%，高剂量组患者报告有0.7％出现了睡前幻觉。'}
+{'human': 'DORAs的使用情况如何？', 'assistant': '目前达尔多雷克斯（Daridorexant）尚未在巴西上市，但预计很快会推出市场。鉴于很少的研究评估了共病失眠的情况，因此仍需谨慎对待。'}
+{'human': 'DORAs与抗抑郁药之间可能发生药物相互作用吗？', 'assistant': 'Drug interactions between DORAs and antidepressants may occur.'}
+{'human': '患有narcolepsy的患者是否可以使用该类镇静催眠药治疗失眠？', 'assistant': 'This class of hypnotic is contraindicated for the treatment of insomnia in patients with narcolepsy.'}
+{'human': 'Ramelteon是如何通过刺激melatonin受体来改善睡眠起始型失眠的？', 'assistant': 'Melatoninergic receptor agonists, such as Ramelteon, are approved as a chronohypnotic for treating sleep-onset insomnia by stimulating melatonin receptors (MT1 and MT2).'}
+{'human': 'Ramelteon与fluvoxamine同时使用时会有什么影响？', 'assistant': 'When co-administered with Ramelteon, fluvoxamine (a strong CYP2D6 inhibitor) significantly increased the concentration and half-life compared to when administered alone. Thus, Ramelteon should not be co-administered with fluvoxamine or other CYP2D6 inhibitors such as siprofloxacin, nor with CYP3A4 inhibitors like ketoconazole, and CYP2C19 inhibitors like fluconazole.'}
+{'human': 'Ramelteon对孕妇是否安全？', 'assistant': 'This medicine should not be used by pregnant women due to the lack of adequate and well-controlled studies under these conditions.'}
+{'human': '使用Ramelteon最常见的不良反应有哪些？', 'assistant': 'The most common adverse events with Ramelteon include sleepiness (5% vs 3% placebo), dizziness (5% vs 3% placebo), and fatigue (4% vs 2% placebo).'}
+{'human': 'Exogenous melatonin的主要作用机制是什么？', 'assistant': 'Endogenous and exogenous melatonin act on the sleep-wake cycle by stimulating MT1 receptors (attenuating alert signals) and MT2 receptors (synchronizing the circadian clock).'}
+{'human': 'Ramelteon的推荐给药方式和时间是怎样的？', 'assistant': 'The recommended administration is one tablet daily, 30 minutes before bedtime. Tablets should not be broken; there is no evidence of the need to adjust doses for specific cases.'}
+{'human': '慢性失眠成人使用褪黑素治疗的有效性如何？', 'assistant': '由于缺乏证明其有效的证据，没有推荐的用于治疗因神经疾病引起的儿童慢性失眠（尤其是自闭症和注意力缺陷多动障碍）或老年人慢性失眠的褪黑激素治疗方法。'}
+{'human': '褪黑素在哪些情况下被认为可以有效治疗慢性失眠？', 'assistant': '有证据表明，褪黑激素可能有效地治疗患有神经系统疾病的儿童以及老年患者的慢性失眠，特别是自闭症和注意力缺陷多动障碍（ADHD）。然而，仍需要对潜在的长期后果进行更广泛的评估。'}
+{'human': '孕妇可以使用外源性褪黑素吗？', 'assistant': '不建议怀孕妇女使用外源性褪黑激素，因为它可以通过胎盘屏障，并且在这种情况下没有足够的和良好的控制研究。同样，在哺乳期也不推荐其使用。'}
+{'human': '外源性褪黑素对睡眠-觉醒周期有何影响？', 'assistant': '作为时相调节剂，外源性褪黑激素根据给药时间可以延迟或提前睡眠-觉醒循环的阶段；如果在通常睡觉时段结束前后服用，则可能会导致延后节律。当在外科手术前3到5小时摄入时则会观察到提前节律（218, 219）。'}
+{'human': '外源性褪黑素存在哪些潜在副作用？', 'assistant': '关于可能的药物相互作用、中毒风险和显著的短期及中期不良反应，外源性褪黑激素被认为是安全的。最常见的不良事件是头痛和嗜睡（207）。'}
+{'human': '慢性失眠使用镇静抗抑郁药是否被批准用于治疗？', 'assistant': '在巴西等一些国家中，由于缺乏系统化的临床试验证据支持其有效性，在没有处方的情况下广泛使用镇静性抗抑郁药物来治疗慢性失眠是不合法的。因此，这类药品被视为非标签用药（off-label）。'}
+{'human': '多塞平的作用机制是什么？', 'assistant': '多塞平是一种三环类抗抑郁药，作为抗抑郁剂其作用机理涉及阻断单胺神经递质在前突触末梢的再摄取，并具有抗胆碱能活性和组胺（H1）受体拮抗作用。由于对 H1 受体的高度亲和力，在低剂量下多塞平选择性地作为 H1 拮抗剂起作用，从而促进其催眠效果（与 3-6 mg 的多塞平用于治疗失眠相比，通常需要 150-300 mg 多塞平来发挥抗抑郁作用）(221)。'}
+{'human': '多塞平的药代动力学特性如何影响临床应用？', 'assistant': '从功能上看，这种混合物意味着其在夜间给药后早上残留药物血浆水平显著降低；从而减少了可能的日间残余效应（221）。'}
+{'human': '长期有效性证据不足的时间长度是多少？', 'assistant': '最长5周。'}
+{'human': '多塞平的初始剂量应在何时给药？', 'assistant': '睡前；四周后如症状持续可增加至50 mg。'}
+{'human': '阿戈美拉汀和艾司西酞普兰在抑郁症患者中均能改善哪方面的情况？', 'assistant': '睡眠质量感知。'}
+{'human': '多塞平与哪些细胞色素P450酶有关？', 'assistant': 'CYP2C19 和 CYP2D6代谢有关。'}
+{'human': '使用多塞平的患者在肾功能减退时可能会出现什么症状延长？', 'assistant': '嗜睡；可能导致多塞平清除延迟，引起嗜睡延长。'}
+{'human': '阿戈美拉汀禁用于哪些情况下的儿童青少年？', 'assistant': '肝功能衰竭伴有转氨酶超过正常上限三倍的情况及儿童青少年。'}
+{'human': '特罗赛多的机制作用是什么？', 'assistant': '作为镇静剂的作用归因于其对H1受体的中度抗组胺活性以及5-HT 1a 受体的部分激动；作为一种抗抑郁药，它通过SHT2C 和 SHT2A 受体拮抗和突触后α1-肾上腺素能受体阻断起作用，并表现出相对较弱但特异性的对5-HT载体的再摄取抑制。'}
+{'human': '多塞平在巴西以哪种形式提供？', 'assistant': '包衣片；每片含25 mg。'}
+{'human': '抗抑郁药阿米替林治疗失眠的效果如何？', 'assistant': '根据证据显示，抗抑郁药阿米替林（Amitriptyline）的治疗可以减少入睡时间和夜间醒来次数，并提高睡眠效率，因此在没有其他具有坚实科学依据的药物选择时，也可以考虑用于非标签条件下的失眠治疗。'}
+{'human': '美沙唑仑的作用机制是什么？', 'assistant': '美沙唑仑是一种抗抑郁药拮抗剂，作用于去甲肾上腺素前自受体和5-HT2异质性受体，并通过抑制突触释放的去甲肾上腺素和血清素来发挥脱抑制效应。此外，它还刺激了血清素和去甲肾上腺素的释放；美沙唑仑是α1-拮抗剂SHTZ A和H1后膜受体，与增加慢波睡眠和镇静有关的效果相关。'}
+{'human': '美沙唑仑的日剂量范围是多少？', 'assistant': '美沙唑仑（Mirtazapine）的抗抑郁药物剂量范围为30至75毫克/天。较低剂量(7.5-15 mg)时镇静作用更为明显；较高剂量 (> 30 mg)由于去甲肾上腺素效应较大，因此不太具有镇静效果。'}
+{'human': '美沙唑仑有哪些剂型？', 'assistant': '美沙唑仑以每片含15、30和45毫克的口服分散片形式提供。'}
+{'human': '没有特定的研究评估过美沙唑仑治疗无合并症失眠的效果，因此对使用该药物进行评估的具体建议是什么？', 'assistant': '由于缺乏针对具有明确推荐意见的相关研究来专门评估美沙唑仑用于治疗无合并症的失眠患者；故目前尚无具体指导方针。'}
+{'human': '在健康志愿者模型中（处于声学压力下的短暂性失眠），7.5毫克和50毫克剂量的美沙唑仑分别对睡眠潜伏期的影响是什么？', 'assistant': '在使用健康受试者作为患有短期失眠症状的压力交通噪音模型进行双盲、安慰剂对照试验时，两种剂量（7.5 mg 和 50 mg）的 mirtazapine 均使 IST (Insomnia Severity Scale) 持续时间增加了半小时，并且与安慰剂相比减少了35-40% 的觉醒次数。'}
+{'human': '美沙唑仑与其他中枢神经系统抑制药物合用时会产生什么影响？', 'assistant': '当 mirtazapine 与其他 CNS 抑制剂（如其他抗抑郁药）联合使用，特别是选择性血清素再摄取抑制剂 (SSRI) 时，由于存在导致类血清素综合征的风险应避免。'}
+{'human': '美沙唑仑可能引起哪些副作用？', 'assistant': 'mirtazapine 可能增加食欲、提高甘油三酯和胆固醇水平，并可能导致口干、便秘、过度嗜睡、头晕、噩梦、生动的梦境以及不安腿综合征等不良反应。'}
+{'human': '美沙唑仑对代谢障碍患者的安全性如何？', 'assistant': '由于其药代动力学特性，mirtazapine 可能导致认知和运动功能缺陷，并引起残留嗜睡；因此在患有代谢疾病（如糖尿病）的患者中应避免使用该药物。'}
+{'human': '奎硫平用于治疗失眠的效果如何？', 'assistant': '一项2023年的荟萃分析评估了8项关于抗精神病药对精神分裂症治疗影响的随机对照试验，结果显示，在所有抗精神病药物中，奥氮平、喹硫平、利培酮和齐拉西酮与显著增加失眠症状相关；而氯氮平与其他抗精神病药物相比较少导致失眠。'}
+{'human': '奎硫平有哪些剂型？', 'assistant': '奎硫平以立即释放的251.8毫克、1001.8毫克及2001.8毫克片剂，以及缓释的501.8毫克、2001.8毫克和300毫克片剂提供。'}
+{'human': '奎硫平在不同形式中的应用依据是什么？', 'assistant': '由于药代动力学特性，奎硫平可能适用于治疗不同类型的精神分裂症或其他精神疾病。'}
+{'human': 'Pregabalin被批准用于治疗哪些疾病？', 'assistant': 'Pregabalin已经由ANVISA批准用于神经性疼痛的治疗，在原发局灶癫痫发作（伴有或不伴继发全面化）中作为辅助用药，以及成人纤维肌痛和广泛焦虑障碍(GAD)。'}
+{'human': 'Pregabalin的作用机制是什么？', 'assistant': 'Pregabalin是一种GABA类似物,其作用方式类似于加巴喷丁。'}
+{'human': 'NoRCIS0far对NoRcIs0far的评估主要集中在什么方面？', 'assistant': 'NoRCIS0far已经针对慢性失眠进行了特定研究;然而，没有关于Pregabalin治疗慢性失眠的对照试验。'}
+{'human': 'α-δ配体或pentoin可能改善睡眠的原因是什么？', 'assistant': '这项综述表明,α-δ配体可能会通过直接或间接机制在与焦虑和神经性疼痛相关的失眠患者中改善睡眠，但尚不清楚这种改进是否确实发生。'}
+{'human': 'Cannabis sp.中的化合物被称为什么？', 'assistant': '这些化合物被称为大麻素。'}
+{'human': 'ANVISA自哪一年开始注册从大麻衍生的产品？', 'assistant': '2019年，ANVISA已经对来自大麻的制品进行了登记。'}
+{'human': 'Cannabidiol (CBD)和delta-9-tetrahydrocannabinol (THC)具有什么作用机制？', 'assistant': '然而,预临床和临床研究主要集中在大麻二酚(CBD)和δ九四氢大麻酚(THC),这两种物质在低剂量时促进警觉性而在高剂量下产生镇静效果。急性THC给药可减少入睡潜伏期，而慢性使用则增加睡眠碎片化。'}
+{'human': '目前批准的大麻素包括哪些化合物？', 'assistant': '根据ANVISA联合委员会的决定10327/2019和10335/2020,目前已批准了18种大麻素。'}
+{'human': 'Cannabis提取物有哪些形式？', 'assistant': '这些化合物以各种制剂存在:单独的大麻二酚(CBD)（浓度从每毫升20毫克到200毫克不等），含有CBD和THC的萃取物，其含量为0.2%或0.24% THC,或者未指定药用大麻素成分的大麻提取物。'}
+{'human': '使用大麻素治疗失眠是否有科学指南？', 'assistant': '尽管它们被用于具有共病情况下的慢性失眠的治疗中，但目前尚无关于使用这些化合物评估失眠症的确切临床指导方针。'}
+{'human': 'Pregabalin的有效性和安全性如何进行治疗规划？', 'assistant': '没有高质量的研究来解决其有效性和安全性的建议剂量问题,以提供治疗计划。'}
+{'human': 'Cannabis对睡眠质量的影响是什么？', 'assistant': '一项涉及219名成人的meta分析表明，CBD和THC类似物在8周期间通过PSQI测量改善了睡眠质量，并且基于客观（ PSG ）和主观结果都得到了证实。'}
+{'human': '使用大麻素治疗失眠的预期效果是什么？', 'assistant': '另一项涉及超过5000名参与者的meta分析发现，与安慰剂相比, 使用这些化合物的患者在睡眠抱怨方面有轻微改善;“癌症”患者的亚组报告了特别显著的改进。然而尚不清楚观察到的好处是否来自抗焦虑作用（CBD）、镇痛效果(4-TC类似物)或直接中枢神经系统调节睡眠路径。'}
+{'human': 'Pregabalin与其他药物之间存在哪些相互作用？', 'assistant': '262毫克的大麻二酚和THC都通过细胞色素p450途径在肝脏中代谢;因此,它们可能与使用此通路的其他各种药物以及肝功能衰竭患者发生相互作用。'}
+{'human': 'CBD与其他药物之间存在哪些副作用？', 'assistant': '同时服用大麻二酚和卡洛巴胺会增加转氨酶水平，可能导致肝脏毒性。常见的不良反应包括嗜睡、上腹痛（胃痛）、腹泻以及血清谷丙转氨酶升高;THC在低剂量时会产生欣快感,而在高剂量下则可能引发精神分裂症发作等已知的多效性效应。'}
+{'human': '其他大麻素和合成的大麻素的作用机制是什么？', 'assistant': '对于其他植物源性和合成性的大麻素，它们的具体作用机理尚未完全了解，并且潜在的相互作用、禁忌证以及副作用也尚不清楚。'}
+{'human': 'Valerian的主要活性成分是什么？', 'assistant': '最近的研究还表明,腺苷受体的作用可能是valerian产生放松和催眠效果的主要贡献者。'}
+{'human': '可用的缬草制剂有哪些形式？', 'assistant': '这些化合物以含有缬草提取物（50-100毫克）胶囊或片剂的形式存在。'}
+{'human': '如何使用缬草？', 'assistant': '- 包装说明建议，在睡前30到60分钟内服用50至300纳克的标准提取物。不应将药片掰开.'}
+{'human': '目前是否有针对帕斯法罗的治疗计划指南？', 'assistant': '- 目前尚无科学指导方针用于制定帕斯法罗的治疗计划.'}
+{'human': '缬草的效果如何？', 'assistant': '- 一项系统性回顾与元分析表明，由于所用提取物质量不一致和可变性的原因，缬草效果存在不确定性。然而，在评估的人群中观察到了显著不良事件.'}
+{'human': '帕斯法罗的治疗结果是什么？', 'assistant': '- 在为期两周的研究中，服用帕斯法罗提取物患者的失眠严重程度指数（ISI）评分和多导睡眠图显示增加.'}
+{'human': '缬草是否有残留效应或严重的不良反应？', 'assistant': '- 未观察到任何残留效果或严重不良事件。停药后没有报告反弹性失眠.'}
+{'human': '孕妇是否可以使用帕斯法罗产品？', 'assistant': '- 孕妇和哺乳期妇女不应使用草本制品，因为缺乏这些条件下充分的安全研究.'}
+{'human': '缬草的作用机制是什么？', 'assistant': '- 缬草可能通过调节GABA能活性来发挥镇静作用.'}
+{'human': '帕斯法罗的成分有哪些形式？', 'assistant': '- 帕斯法罗可以以胶囊、片剂或不同黄酮浓度的不同复方制剂的形式找到。液体制剂也适用于这两种植物.'}
+{'human': '如何使用印度冬青治疗失眠？', 'assistant': '- 缺乏科学指南表明，应将印楝（Mulungu）用于治疗睡眠相关障碍.'}
+{'human': '缬草对GABA能活性有何影响？', 'assistant': '- 调节GABA能活性可能产生镇静作用.'}
+{'human': '印度冬青的作用机制是什么？', 'assistant': '- 印楝（Mulungu）的作用机理尚未描述.'}
+{'human': '如何使用姜黄治疗失眠或共病情况？', 'assistant': '- 缺乏科学指南表明，应将印楝用于治疗睡眠相关障碍.'}
+{'human': '印度冬青是否与华法林有相互作用？', 'assistant': '- 与香豆素类药物如华法林合用可能没有同时使用.'}

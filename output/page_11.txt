@@ -1,0 +1,13 @@
+Sleep Science2023. Brazilian Sleep Association. All rights reserved.
+And treat insomnia as those issued by the American Academy of Sleep Medicine (AASM); the European Sleep Research Society (ESRS), and other societies.
+
+The list of pharmacological and non-pharmacological interventions to treat insomnia may differ from interventions assessed in other guidelines for two main reasons. First, due to a focus on interventions available in Brazil, which left out some interventions present in other studies (e.g., zaleplon and temazepam) but included others not commonly found in other guidelines (especially certain phytotherapeutics). Additionally, this guideline is more recent than those mentioned above; thus it includes newer interventions such as cannabinoids and ACT-I.
+
+The method to assign levels of evidence was primarily based on the experimental design used in selected studies. Although the level of evidence can be adjusted for other aspects (as described in Table 3), no structured or parameterized approach was employed. Other methodologies, like using the GRADE tool [Grading Of Recommendations Assessment, Development, and Evaluation], would have allowed a more comprehensive assessment.
+
+Despite these observations, this guideline provides robust recommendations to diagnose and treat insomnia based on evidence; primarily applicable to Brazil but certainly extensible to other countries and contexts. The following sections present critical reviews developed for each topic included in the guideline.
+
+The diagnosis of insomnia should be standardized, focusing on correctly characterizing patient complaints regarding duration, frequency, type, lifestyle, sleep habits, triggering factors, comorbidities (and their respective treatments). This section highlights key points essential for a correct diagnosis of insomnia.
+
+Assessing Insomnia
+Diagnosing chronic insomnia is essentially clinical. The assessment should cover the patient's daytime and nighttime habits, precipitating and perpetuating factors, as well as psychiatric conditions.

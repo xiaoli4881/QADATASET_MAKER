@@ -1,0 +1,19 @@
+Insomnia presentation can be used in both sleep-onset and maintenance insomnia as well as early waking. However, given its adverse effects profile, prescription to adults over 65 years should be avoided or performed more carefully.
+
+Therapeutic Planning: The possibly recommended administration for the treatment of insomnia is once close to bedtime; between 25 and 100 mg/day. After oral administration, rapid absorption occurs, reaching serum concentration in 1.2 to 1.8 hours with its bioavailability not significantly affected by food intake. It is metabolized in the liver by CYP3A4, and its elimination half-life is approximately 6-7 hours. The drug is eliminated through renal (73%) and fecal (27%) routes.
+
+Expected Outcomes: Quetiapine has been approved by the FDA for treating schizophrenia and bipolar episodes as well as major depressive episodes; it has also been used off-label to treat insomnia, with studies evaluating its effectiveness on sleep impact. In 2010, a randomized controlled trial evaluated the use of 25 mg quetiapine at night for primary insomnia but showed no statistically significant difference in sleep parameters such as IST and sleep latency compared to the placebo group.
+
+A review published in 2009 suggested that Quetiapine could reduce sleep-onset latency and improve IST and sleep efficiency in patients with psychiatric disorders; however, findings are still insufficient to propose it as a pharmacological option for insomnia without psychiatric comorbidities. According to a meta-analysis from 2023, doses lower than those used for schizophrenia or acute mania episodes effectively managed insomnia but long-term effectiveness and safety need further investigation in patients without psychiatric disorders.
+
+Other Considerations: More individuals are needed to evaluate continuous treatment response profiles in insomnia without comorbidity; it is always necessary to consider risks associated with adverse effects when prescribing antipsychotics for other purposes. The safety and effectiveness of Quetiapine were not established for children or adolescents (10-17 years old) nor during human pregnancy.
+
+Interactions, Contraindications, and Side Effects: Compared with other medications in the same class of antipsychotics, Quetiapine is less associated with dystonia and extrapyramidal symptoms but may promote weight gain, metabolic syndrome, and QT interval prolongation. Body mass index (BMI), weight, blood pressure, fasting blood glucose, and lipid profile should be monitored before starting treatment following regular control.
+
+Anti-epileptic drugs previously named anticonvulsants included in this manuscript: gabapentin and pregabalin.
+
+Mechanism of Action: Gabapentin has a structure analogous to the inhibitory neurotransmitter (GABA) although its mechanism of action is not fully understood. It inhibits the action of α2δ subunits of voltage-dependent calcium channels, thereby inhibiting calcium currents and decreasing neuronal excitability.
+
+Expected Outcomes: Two studies on the efficacy of gabapentin have been included in this review; both with low-quality evidence. An open clinical study without a control group studied 18 patients with chronic insomnia who used gabapentin at three doses (200 to 900 mg) at night, averaging 540 mg over 28 days. In this study, improved sleep efficiency, decreased WASO, increased N3 stage duration, and reduced awakening rate were reported when measured by PSG compared to pre-treatment data; however, the changes were not statistically significant.
+
+Another double-blind randomized trial evaluated 237 adults (placebo: n = 115; gabapentin: n = 122) with transient insomnia for its efficacy on sleep parameters and quality of life measures but did not provide results here.

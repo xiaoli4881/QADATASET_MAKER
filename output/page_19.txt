@@ -1,0 +1,19 @@
+Abbreviations: CBT-I, Cognitive-behavioral therapy applied to insomnia; ISI, Insomnia Severity Index; PSQI, Pittsburgh Sleep Quality Index; WASO, wake after onset.
+
+Corresponding effects measured with polysomnography showed equivalence in the levels of satisfaction, credibility, and therapeutic alliance between online care via modality CBT-I and in-person CBT-Imodality. Given the scarce availability and accessibility of sleep psychologists and health professionals trained in CBT-I, online and digital modalities emerge as alternatives for intervention in chronic insomnia treatment.
+
+Concerning digital CBT-I, Zhang et al. demonstrated the relevance of cultural adaptation—i.e., adapting to language, communication style (expressions), nightlife habits, and pre-sleep activities—and scientific validation of systems.
+
+Bibliotherapy and self-help therapy are modalities within CBT-I; when compared with non-intervention groups, they demonstrate effects on main subjective sleep parameters such as ISI, PSQI, sleep latency, sleep efficiency, and WASO but have limited effectiveness in comparison to other CBT-Imodalities. They serve more as support for interventions that show superior effectiveness.
+
+The sleep hygiene approach alone has limited clinical outcomes when compared with control groups in improving primary chronic insomnia; it shows no effect on comorbid insomnia. The structured and frequent intervention using CBT-I techniques results in greater effects on sleep parameters, which are long-lasting and independent of comorbidity, age, and sex. Adherence to CBT-I is higher than other active interventions.
+
+Studies involving mindfulness-based interventions compared with controls demonstrate improvements in ISI, PSQI, sleep latency, sleep efficiency, WASO, and mental health parameters during follow-up. A comparison of these approaches with CBT-I showed inferior results regarding sleep parameters. An meta-analysis by Entrambasaguas et al. identified inconclusive results for the mindfulness approach combined with CBT-I on clinical outcomes in chronic insomnia due to lack of standardization.
+
+However, some studies indicate that mindfulness practices improve dose-dependent sleep quality (PSQI), suggesting preventive power and adjuvant practice to CBT-I without comorbidity.
+
+Bloteback is a therapeutic tool aimed at developing the capacity for self-regulation by electronically monitoring physiological processes such as peripheral temperature, blood pressure, heart rate, muscle tone, or brain waves. Collected signals associated with stress conditions are immediately returned to the patient through images and sounds to promote relaxation of the stress condition and voluntary regulation of physiological and emotional reactions, breaking the vicious cycle of stress; promoting relaxation, and improving symptoms associated with anxiety and other mood disorders.
+
+Different biofeedback modalities have been described such as neurofeedback, which aims to influence the occurrence of sleep-related brain waves, and heart rate variability biofeedback, which reduces sympathetic activity by training breathing in the context of heart rate oscillations. Recent systematic reviews on applying biofeedback for insomnia treatment demonstrate inconsistent results with general limitations regarding study quality.
+
+Few randomized studies have tested biofeedback techniques alone or in combination for insomnia. One of the first studies,

@@ -1,0 +1,24 @@
+Proven effective in the management of circadian rhythm disorders.
+Therapeutic planning: There is no recommended therapeutic plan for using melatonin to treat chronic insomnia in adults due to a lack of proven effectiveness.
+
+Expected outcomes: Three systematic reviews and some recent randomized studies evaluated the effect of melatonin taken 0 hours before sleep in insomniac adults. The results are heterogeneous, including reduced sleep latency only in older people, increased total sleep time in comorbid insomnia (186), reduced early waking (213), even no effectiveness observed (213, 214).
+
+There is evidence suggesting that melatonin can effectively treat chronic insomnia in children with neurological diseases, especially autism and attention-deficit/hyperactivity disorder (ADHD) as well as older adults. However, a broader assessment of possible long-term consequences is still needed.
+
+Drug interactions, contraindications, side effects: Exogenous melatonin administration is considered safe regarding potential drug interactions, risk of intoxication; abuse potential, and significant short- and medium-term side effects (206). The most common adverse events reported are headaches and sleepiness (207).
+
+Exogenous melatonin should not be used by pregnant women as it crosses the placental barrier. There are no adequate and well-controlled studies under these conditions. Similarly, its use in breastfeeding women is also not recommended.
+
+As a chronobiotic, exogenous melatonin delays or advances phases of the sleep-wake cycle depending on when it is administered. Delayed phases can occur if ingested around the end of the usual sleep period; advanced phases are observed when taken 3 to 5 hours before the usual sleep onset (218, 219).
+
+In some countries, including Brazil, exogenous melatonin has been released by regulatory agencies as a food supplement and is therefore not subject to the same quality rules as drugs. In 2017, after testing 30 different types of exogenous melatonins sold in Canada, Erland and Saxena reported disagreements between label specifications and formulation content; large differences in the actual amount of melatonin, presence of serotonin (in 26% of formulations), addition of herbal extracts, and variations between lots from the same manufacturer (220).
+
+The use of sedative antidepressants to treat chronic insomnia is widespread but none are approved for insomnia by ANVISA. Hence, its prescription is considered off-label and based on scientific evidence from non-systematized trials which limit generalizing their effectiveness (221, 222). This unlicensed medicine use can be motivated by concern over prolonged use of hypnotics and limited availability of psychological treatments.
+
+Mechanism of action: Doxepin is a tricyclic antidepressant whose mechanism as an antidepressant involves blocking the reuptake of monoaminergic neurotransmitters at pre-synaptic terminals, having anticholinergic activity and modulating antagonism of histamine (H1) receptors. Due to its very high affinity for H1 receptor, doxepin acts selectively as a H1 antagonist when used in low doses and promotes its hypnotic action (1-6 mg of doxepin as a hypnotic compared with 150-300 mg of doxepin as an antidepressant) (221). In addition, doxepin is actually a mixture of two chemical forms; one of which (and its active metabolites) has a shorter half-life (8 to 15 hours), while the other has the traditionally long half-life tricyclic antidepressants (24 hours).
+
+From a functional point of view, this mix means that their night administration produces substantially lower residual drug plasma levels in the morning; thus reducing possible residual daytime effects.
+
+Available presentations: Doxepin is available only for compounding in registered pharmacies upon specific prescription. As it is an FDA-approved drug for insomnia treatment, the usually recommended dose should be that of the same industrialized presentation in the United States (3 and 6 mg) (18-20).
+
+Patient assessment: Due to pharmacokinetic characteristics, doxepin can be indicated for different clinical insomniaphenotypes in adults and can therefore be used in sleep-onset and maintenance insomnia as well as early waking. There are 10 specific contraindications for different age groups and it can also be used in adults over 65 years (222, 223).

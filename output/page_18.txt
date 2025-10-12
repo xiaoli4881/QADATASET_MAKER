@@ -1,0 +1,20 @@
+Table 11: CBT-I Modalities: Application Formats and Settings.
+Abbreviations: CBT, Cognitive-behavioral therapy applied to insomnia.
+
+fOI supplementary use involves various health interventions including insomnia. The mindfulness-based insomnia intervention program combines mindfulness techniques with components of cognitive-behavioral therapy for insomnia (CBT-I), aiming to alter the relationship with psychosomatic suffering associated with the condition and change dysfunctional thoughts and habits unfavorable for healthy sleep; thus transforming reactive responses into adaptive ones and improving emotional management.
+
+The decision on an intervention approach must consider therapeutic response after treatment, follow-up, resource availability, physical and mental health conditions of the patient, as well as their openness and readiness to adhere to the proposed therapy. Since non-pharmacological interventions depend on active participation from patients, different managements need alignment to ensure greater effectiveness and efficiency.
+
+Non-pharmacological insomnia treatments are usually well-tolerated but may require some precautions; there may be contraindications for applying them in older adults, such as stimulus control and sleep restriction posing a risk of falls. 73
+
+Regarding insomnia phenotypes based on objective sleep duration, CBT-I is less effective among patients with total sleep time (TST) <6 hours compared to those with TSI >6 hours. The recommendation for the former includes applying multicomponent CBT-I associated with mindfulness strategies and acceptance and commitment therapy (ACT), which favor autonomic modulation promoted by somatic-cognitive hyperarousal; it can also be combined, at the clinician's discretion, with pharmacotherapy to aid its management 78-79.
+
+Randomized studies and meta-analyses have assessed the effects of multicomponent CBT-I on sleep parameters and mental health in patients with chronic insomnia compared with active and passive control conditions. The results show that multi-component CBT-I significantly decreases the severity of insomnia and improves quality of life, particularly subjective parameters such as sleep latency, number of awakenings, wake after sleep onset (WASO), and sleep efficiency 47-53,80-83. Table 12 presents these effects and those measured with polysomnography (PSG) 54,84.
+
+The effects of CBT-I on increasing TST are evident in some studies indicated by the sensitivity shown through sleep diaries 50,62,64,66,83,85 and PSG 62,84; though such correspondence is not as consistent with actigraphy analysis. The effects of CBT-I are more substantial on subjective than objective sleep parameters, suggesting greater sensitivity in subjective recordings to detect the effect of decreasing hyperarousal present in insomnia, which more reliably reflects increases in TSI 62. Clinical outcomes are maintained in follow-ups of 3 to 12 months 47-80.
+
+When compared with control conditions and isolated CBT-I techniques, multicomponent CBT-I has also shown to improve daytime symptoms such as fatigue and sleepiness 80,88,89; as well as symptoms of anxiety, depression or stress 82,83,85,88,89 and dysfunctional beliefs and attitudes toward sleep. 63-82
+
+Online and digital CBT-I services compared with control conditions demonstrate improvement in subjective sleep parameters 63-64,85,89; Table 12 discriminates these effects per CBT-I modality. Although Soh et al. indicate a greater effect of in-person CBT-I to reduce the severity of insomnia and WASO (Wake After Sleep Onset) compared with digital CBT-I, the clinical outcomes promoted by both modalities demonstrated post-treatment and follow-up equivalence compared with in-person CBT-I 64-89.
+
+Arnedt

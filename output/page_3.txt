@@ -1,0 +1,21 @@
+Whose patients have complaints and symptoms compatible with this sleep disorder? This guideline aims to provide patient-centered clinical guidelines using a structured methodology. The final result is an objective and practical document that provides recommendations for professionals managing insomnia, supported by the best available scientific evidence.
+
+Even though this paper covers both diagnosis and treatment of insomnia, structured research questions were developed only for topics on treatment, not those related to diagnosis. Developing research questions for diagnostic accuracy—such as using the PI(R)T approach—requires clearly established reference tests as valid comparators. Since these reference tests are analyzed in this study, the topics on diagnosis were not addressed with structured research questions; instead, they were written based on theoretical considerations, previous guidelines, and professional experience.
+
+Hence, a series of PICO-based questions were developed for treatment: "What is the effect of [INTERVENTION] compared with [CONTROL] on [OUTCOME] in adults with chronic insomnia without comorbidities?" Each PICO parameter was defined by the steering committee during a synchronous online meeting. Concerning pharmacological interventions, only those currently available in Brazil or possibly becoming available in the upcoming years were considered eligible.
+
+Given the large number of interventions to be included, this paper decided to restrict research questions to primary treatment for chronic insomnia in adults. Other aspects related to the use and implementation of each selected intervention (e.g., different insomnia phenotypes, comorbidities, combined treatments) were not included in the research questions but are discussed in reviews prepared by each work group.
+
+The list of eligible interventions is presented in Table 1. Each PICO item is detailed in Table 2 along with inclusion and exclusion criteria.
+
+The results of systematic reviews based on these research questions serve two main purposes: generating material to analyze the level of evidence for each intervention and providing references to help each working group prepare their reviews. No meta-analyses were performed.
+
+Bibliographic Search and Eligibility Analysis
+Independent search strategies were developed for each intervention (as seen in Table 1). Exceptions include interventions related to cannabinoids, cognitive-behavioral therapy applied to insomnia, alternative and complementary interventions where systematic reviews were not conducted due to the great heterogeneity of studies using these treatments; and phytotherapy interventions such as Matricaria recutita and Withania somnifera for which no systematic reviews were conducted because they are included later in this document.
+
+The strategies combined two search domains: one addressing both population and outcome related to insomnia, and the other combining each intervention's specific strategy. Specifically regarding non-pharmacological interventions, the search strategies focused on cognitive-behavioral therapy applied to insomnia (CBT-I), acceptance and commitment therapy applied to insomnia (ACT-I), and mindfulness-based cognitive therapy applied to insomnia (MBCT-I). All search strategies are available in a supplementary file.
+
+The searches were made in two databases: PubMed and Web of Science full collection, last updated on June 5, 2023. No secondary or gray literature evaluation was conducted. Search results were exported to Covidence and grouped into a single systematic review with all interventions. Duplicates were automatically excluded. Each non-duplicate record was analyzed by two out of six reviewers (AGB, GLRC, IPAL, MPK; VAK, YML) in a two-stage process: the first stage analyzing titles and abstracts, and the second stage analyzing full texts. Discrepancies were resolved by a third reviewer (GNP). Eligibility was analyzed according to predefined inclusion and exclusion criteria.
+
+Each article was analyzed based on the following criteria applied in the same order as presented below:
+- Exclusion: Articles without abstracts or with abstracts in languages other than Portuguese or English.

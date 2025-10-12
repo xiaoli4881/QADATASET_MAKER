@@ -1,0 +1,27 @@
+Zolpidem concentrations range from 45 to 60 minutes, with controlled-release presentations having a biphasic absorption profile and prolonged plasma concentration lasting more than three hours.
+
+Available Presentations: In Brazil, immediate-release tablets (10 mg), sublingual tablets (5 mg and 10 mg), orodispersible tablets (2.5 mg, 5 mg, and 7.5 mg), controlled-release tablets (6.25 mg and 12.5 mg), and oral solution (10 mg/mL) are available.
+
+Patient Assessment: Zolpidem is indicated for acute night-onset insomnia with an immediate release dose of 5 to 10 mg or prolonged release at a dosage of 6.25 mg in adults. For older adults, half this dose should be used initially; women may require lower doses as well.
+
+Therapeutic Planning: Zolpidem should be administered only before bedtime and not for more than four weeks consecutively.
+
+Expected Outcomes: A meta-analysis (n = 1068) showed that zolpidem increased ISI, reduced sleep latency, and improved sleep quality without differences in WASO. Evaluating different doses of zolpidem (5 mg; 7.5 mg; 10 mg; 15 mg; and 20 mg), it was shown that 7.5 mg and 10 mg decreased sleep-onset latency, the number of nighttime awakenings, and increased TST without impacting psychomotor performance.
+
+Comparing sublingual and oral zolpidem (10 mg each), the sublingual presentation reduced sleep onset latency by 8.6 minutes with no differences in ISI or WASO compared to oral administration. In individuals with chronic insomnia, both oral (10 mg) and sublingual (5 mg) zolpidem led to a similar reduction in nighttime awakenings but showed greater reductions in sleep latency for the sublingual formulation.
+
+For maintenance insomnias with night-time awakenings, sublingual zolpidem (5 mg) increased TST without significant changes in sleep latency or WASO. However, it caused morning sleepiness and reduced alertness.
+
+Extended-release zolpidem (12.5 mg), for individuals with chronic insomnia, increased total sleep time (TST) and sleep efficiency while reducing the latency to persistent sleep, nighttime awakenings, and WASO without impairing psychomotor performance in the following morning.
+
+Drug Interactions; Contraindications; Side Effects: Zolpidem is metabolized by CYP3A4. Use with CYP3A4 inhibitors (fuvoxamine, ciprofloxacin, ketoconazole) should be avoided due to increased sedative effect. Conversely, use with CYP3A4 inducers (rifampicin and St. John's Wort) decreases zolpidem levels.
+
+Side effects of zolpidem include sleepiness (5%), dizziness (5%), headache (3%), gastrointestinal symptoms (4%), sleepwalking (1%), nightmares (1-2%), mental confusion (1-2%). The risk of falls and fractures is increased, especially among older people. Non-REM (NREM) sleep parasomnias, behavioral changes (disinhibition, aggression; impulsivity), visual or auditory hallucinations, driving impairment are possible effects more prevalent with alcohol.
+
+There is an increased risk of suicide, particularly at high doses and in individuals with psychiatric comorbidities. The prevalence of rebound insomnia after discontinuation was not greater than that observed with placebo but may be seen with abrupt higher dose discontinuation. Zolpidem can cause dependence syndrome; abrupt interruption associated with headache, myalgia, irritability, anxiety, mental confusion, derealization, depersonalization, hyperacusis, hypersensitivity to light and noise, tactile stimuli, hallucinations, and epileptic seizures.
+
+Mechanism of Action: Zopiclone is a non-benzodiazepine hypnotic agent from the cyclopyrrolone family with high affinity for GABA-A receptor subunits Q-1 and 4-2. After oral administration, zopiclone reaches maximum plasma concentrations (30 to 60 ng/mL) within 1.5 to 2 hours after doses of 3.75 mg or 7.5 mg.
+
+Patient Assessment: Due to its mechanism of action, zopiclone is indicated for adult patients with acute onset and maintenance insomnia. Older people should start at half the dosage (3.75 mg).
+
+Therapeutic Planning: The recommended administration is one tablet orally only before bedtime; considering that a regular pattern in bedtimes must be adopted by the patient. Treatment duration should not exceed four weeks.

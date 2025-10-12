@@ -1,0 +1,21 @@
+Patient assessment: Considering the pharmacokinetic characteristics of immediate-release trazodone; it can treat various clinical presentations including chronic insomnia (sleep-onset and maintenance insomnia, early waking). It is not recommended for use in children under 18 as safety and effectiveness have not been determined. In adults over 65, lower doses may be used.
+
+Expected outcomes: Several randomized controlled trials evaluating trazodone's efficacy compared to placebo or other hypnotic medications are available; including CBI-L79234-235. A meta-analysis specifically evaluated the role of trazodone in treating insomnia through placebo-controlled studies, involving seven studies with 429 patients. Patients receiving trazodone reported better subjective sleep quality and fewer nighttime awakenings compared to those who received a placebo; no significant differences were found for sleep latency or intermittent somnolence (IST) between the two groups.
+
+A systematic review and meta-analysis published in 2022 evaluated the effect of trazodone on polysomnography objective findings, including eleven studies with 466 patients. Compared to controls, trazodone significantly increased stage three non-rapid eye movement sleep (NREM) latency and duration; reduced sleep-onset latency, NREM stage one time, number of awakenings, and wake after sleep onset.
+
+Drug interactions, contraindications, side effects: Reports indicate changes in coagulation tests among patients receiving Warfarin and trazodone. Concomitant use with antihypertensives can cause a significant drop in blood pressure; increased concentrations of digoxin and phenytoin have been reported when taken concurrently by individuals who received trazodone, leading to an advisory against its use for patients recovering from myocardial infarction.
+
+Trazodone is associated with the occurrence of priapism (prolonged or inadequately lasting erections) in <1 per 6,000 treated patients. It should be considered as a treatment option between insomnia and obstructive sleep apnea due to its safety profile; however, it is not recommended for pregnant or breastfeeding women, children, and adolescents.
+
+Mechanism of action: Amitriptyline, commonly used off-label for treating insomnia because of its sedative properties, like other tricyclic antidepressants blocks reuptake pumps of serotonin and norepinephrine neurotransmitters. Sedation results from antagonism on muscarinic-cholinergic receptors; α-adrenergic, and histaminergic receptors are affected at low doses (10-25 mg). The antidepressant effect requires higher daily dosages to activate serotonergic and noradrenergic receptors.
+
+Available presentations: Amitriptyline is available in 10 mg, 25 mg, and 75 mg tablets.
+
+Expected outcomes: No randomized controlled trials have specifically assessed amitriptyline for treating insomnia without comorbidities; therefore, no specific recommendations exist. Ten systematic reviews or meta-analyses evaluated the effect of amitriptyline on individuals with major depression undergoing treatment using PSG research methods showed reduced sleep latency and fewer nighttime awakenings; increased sleep efficiency.
+
+Drug interactions, contraindications, side effects: Amitriptyline is metabolized in the liver by cytochrome P450 enzymes. Combined use with other nervous system depressants increases sedation risk to ataxia; oral contraceptives, selective serotonin inhibitors (SSRIs), antipsychotics, and acetylsalicylic acid increase serum levels of amitriptyline237.
+
+Use in medications that extend the QT interval should be avoided due to synergistic effects. The main side effects include dry mouth, constipation, increased appetite; postural hypotension, sedation, dizziness, blurred vision, reduced sexual drive; cognitive deficit, heart conduction abnormalities, and a decreased seizure threshold237.
+
+Amitriptyline is contraindicated for patients with acute myocardial infarction, cardiac conduction disorders, prostatism or urinary retention, paralytic ileum, closed-angle glaucoma. Concurrent use of monoamine oxidase inhibitors should be avoided; its use during pregnancy and breastfeeding requires risk-benefit assessment237.

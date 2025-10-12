@@ -1,0 +1,27 @@
+Performance is maintained as long as the dosages and guidelines established for its use are respected. However, most studies had low or unclear quality. Two randomized controlled trials (RCTs) compared zopiclone's effectiveness with zolpidem and another one with eszopiclone, demonstrating that both substances were effective in reducing sleep latency and increasing total sleep time (TST) and sleep efficiency.
+
+Drug interactions, contraindications, side effects: Zopiclone binds weakly to plasma proteins and is non-saturable; thus, the risk of drug interactions is very small. Reducing the dose of zopiclone is necessary when used concomitantly with potent CYP3A4 inhibitors such as erythromycin and ketoconazole. Conversely, rifampicin, carbamazepine, phenobarbital, phenytoin, and St. John's wort—drugs that induce CYP3A4—decrease the action of racemic zopiclone by 80%. Ethanol should not be consumed concomitantly with zopiclone due to increased sedative effects; food intake may also enhance this effect.
+
+This medicine should not be used during pregnancy as there are no adequate and well-controlled studies in these conditions. The use of this medication is also not recommended for women who are breastfeeding, nor for children and adolescents.
+
+Very common adverse events (10%): bitter taste. Common ones (> 1%) include dizziness, headache, residual sleepiness, mouth dryness, dyspepsia, nausea. Nightmares or inappropriate behaviors such as sleepwalking were rarely recorded.
+
+Mechanism of action: Eszopiclone is an S-enantiomer of racemic zopiclone and a non-benzodiazepine hypnotic agent from the cyclopyrrolone family. After oral administration, it is rapidly absorbed and reaches maximum concentration (Tmax) around 1 hour. It has high affinity for GABA-A receptor subunits α-1, γ-3, and δ.
+
+Available presentations: Eszopiclone is available in Brazil as coated tablets; the extended-release formulation may be attractive for older patients.
+
+Patient instructions: Due to its mechanism of action, eszopiclone is indicated for adult patients with acute onset or maintenance insomnia. The recommended administration is one tablet only when going to bed (considering that the patient must adopt a regular pattern in times to go to bed and get up).
+
+Therapeutic planning: Start with the lowest dosage; intermittent dosing or "treatment as needed" may be an alternative.
+
+Expected outcomes: Numerous RCTs and two meta-analyses have demonstrated eszopiclone's effectiveness. The first reviewed 14 RCTs involving 4,732 participants and showed that eszopiclone reduced sleep latency by 12 minutes and wake after sleep onset (WASO) by 17 minutes, helping increase TST by at least 30 minutes; it also increased sleep efficiency and improved functioning the next day when compared with placebo. This effect was observed in different age groups (3 mg for adults and 2 mg for older adults) and various types of insomnia.
+
+A study involving a Japanese population showed statistical differences with a dosage of 2.1 mg. The most recent meta-analysis, from 2019, brought together six RCTs involving 2,809 patients with insomnia disorder and concluded that eszopiclone is an effective and safe therapeutic option, especially for older patients.
+
+Drug interactions, contraindications, side effects: Eszopiclone is weakly bound to plasma proteins. The high fraction of free drugs in the plasma suggests its distribution is not affected by interactions with other medications related to binding to these proteins. Eszopiclone did not show any inhibitory potential on CYP450 enzymes.
+
+Reducing the dosage of eszopiclone is necessary when used concomitantly with potent CYP3A4 inhibitors such as ketoconazole. Conversely, rifampicin decreases the action of racemic zopiclone by 80%. Ethanol should not be consumed concomitantly with eszopiclone due to increased psycho-motor performance up to four hours after use.
+
+This drug should not be used during pregnancy as there are no adequate and well-controlled studies in these conditions. Its use is also not recommended for women who are breastfeeding, nor for children and adolescents.
+
+Common adverse events (> 10%): headache; common ones (1-10%) include sleepiness, dry mouth, viral infection, dyspepsia, nausea.

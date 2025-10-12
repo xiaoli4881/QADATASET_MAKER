@@ -1,0 +1,42 @@
+Therapeutic Planning:
+- Valerian (Valeriana officinalis L.): Package inserts suggest administering 50 to 300 ng of standardized valerian extract, 30 to 60 minutes before going to bed. The tablet should not be broken.
+- Passiflora (Passiflora incarnata Linnaeus): No scientific guidelines exist for therapeutic planning.
+
+Expected Outcomes:
+- Valerian: A systematic review with meta-analysis demonstrated inconsistent valerian effects due to the irregularity and variability of extract quality used. Nonetheless, significant adverse events were observed in evaluated populations.
+- Passiflora: A placebo-controlled, double-blind RCT showed increased Insomnia Severity Index (ISI) scores with polysomnography in patients taking Passiflora extracts for 2 weeks.
+
+Drug Interactions, Contraindications, and Side Effects:
+- Valerian: No residual effects or serious adverse events were observed. Rebound insomnia after discontinuation was not reported.
+- Passiflora: Herbal products should not be used by pregnant or breastfeeding women due to lack of adequate safety studies in these conditions.
+
+Mechanism of Action (Passiflora):
+- Modulates GABAergic activity, possibly exerting a sedative effect.
+
+Available Presentations:
+- Valerian and Passiflora can be found in capsules, tablets, or compounding presentations with variable quantities and different flavonoid concentrations. Liquid formulations are also available for both.
+- Chamomile (Matricaria chamomilla L.): Mechanism of action possibly involves modulating GABAergic activity.
+
+Mechanism of Action:
+- Ashwagandha (Withania somnifera L. Dunal): Possibly exerts sedative effects by modulating GABAergic activity.
+
+Available Presentations and Patient Assessment for Ashwagandha, Chamomile, and Mulungu:
+- Compounding presentations can be found in capsules with 300 mg of ashwagandha root extract.
+- No scientific guidelines exist indicating the use of chamomile or mulungu to treat insomnia disorders.
+
+Mechanism of Action (Ashwagandha):
+- Modulates GABAergic activity, possibly exerting sedative effects.
+
+Expected Outcomes:
+- Ashwagandha: A placebo-controlled, double-blind RCT demonstrated that ashwagandha treats insomnia. There were improvements in actigraphy parameters and sleep quality.
+- Mulungu (Anadenanthera colubrina): No study has assessed the effects of mulungu on any sleep-related outcome.
+
+Drug Interactions:
+- Passiflora: Possibly enhances the effect of barbiturates; concomitant use is not recommended. Interaction with coumarin medications such as Warfarin suggests no concurrent use.
+- Chamomile and Mulungu: No significant adverse effects have been described from using these extracts.
+
+Mechanism of Action (Mulungu):
+- The mechanism has not yet been described.
+
+Patient Assessment:
+- Ashwagandha, chamomile, and mulungu show no scientific guidelines for treating insomnia or comorbid conditions.

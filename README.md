@@ -9,6 +9,11 @@ Automated medical Q&amp;A for dataset construction
 bash
 pip install -r requirements.txt
 
+# 版面检测网络：
+
+https://github.com/JaidedAI/EasyOCR 自行下载
+
+
 # 命令行使用：
 bash
 python pdf_qa_processor.py --pdf_path /path/to/your/pdf.pdf --output_dir ./results

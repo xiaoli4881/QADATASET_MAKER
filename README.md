@@ -46,3 +46,5 @@ pageo_{n}.txt - 原始提取文本
 page_{n}.txt - 清洗后文本
 
 QA.txt - 最终QA对结果
+
+medical_qa.json -医疗问答数据集

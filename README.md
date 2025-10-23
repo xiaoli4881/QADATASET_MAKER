@@ -22,7 +22,9 @@ python pdf_qa_processor.py --pdf_path /path/to/your/pdf.pdf --output_dir ./resul
 python
 
 from pdf_qa_processor import PDFQAProcessor
+
 processor = PDFQAProcessor()
+
 qa_pairs = processor.process_pdf("your_pdf.pdf", "output_dir")
 
 # 主要特性：
